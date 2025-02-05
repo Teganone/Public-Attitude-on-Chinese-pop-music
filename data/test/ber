@@ -1,0 +1,39 @@
+0                                 初听不知曲中意，再听已是付费曲[抠鼻][抠鼻]
+1                              那年的电影也是神仙打架 0506到底是个怎么样的存在
+2                    回复 @肖鱿鱼 :0506年动画也出了很多经典 鲁路修 cl 凉宫春日等
+3                                        初听不知曲中意，再听已是曲中人。
+4                                                    真实落泪
+                              ...                        
+1356                                         厉害是厉害只不过首首情歌
+1357    有一次在一个拉面馆子吃饭，音响放的是一个零几年的周音乐排行榜的录音，然后发现这个周榜至少前五...
+1358                                    说到女团我脑子里默认就是S.H.E
+1359                     我以为会看到【野蛮游戏】【天空】【许愿池的希腊少女】......
+1360                                开局就是飞儿，这不是一个乐队，这是一个时代
+Name: content, Length: 1361, dtype: object
+1088 136 137
+Epochs: 1 
+              | Train Loss:  0.780 
+              | Train Accuracy:  0.474 
+              | Val Loss:  0.766 
+              | Val Accuracy:  0.507
+Epochs: 2 
+              | Train Loss:  0.746 
+              | Train Accuracy:  0.537 
+              | Val Loss:  0.728 
+              | Val Accuracy:  0.566
+Epochs: 3 
+              | Train Loss:  0.667 
+              | Train Accuracy:  0.590 
+              | Val Loss:  0.633 
+              | Val Accuracy:  0.603
+Epochs: 4 
+              | Train Loss:  0.613 
+              | Train Accuracy:  0.612 
+              | Val Loss:  0.600 
+              | Val Accuracy:  0.618
+Epochs: 5 
+              | Train Loss:  0.588 
+              | Train Accuracy:  0.615 
+              | Val Loss:  0.578 
+              | Val Accuracy:  0.610
+Test Accuracy:  0.650

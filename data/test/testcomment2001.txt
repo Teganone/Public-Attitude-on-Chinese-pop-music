@@ -1,0 +1,1174 @@
+nohup: 忽略输入
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+===================
+1986607502   胖头鱼0_o   1. 爱的就是你--王力宏
+2 安静--周杰伦
+3. 恋人未满--S. H. E
+4. 刁马旦--李玟/周杰伦
+5. 第一次--光良
+6. 情非得已--庾澄庆
+7. 你要的爱--戴佩妮
+8. 成全--刘若英
+9. 美丽心情--本多RuRu
+10. 一千零一个愿望--4 in Love
+11. 流星雨--F4
+12. 情深深雨蒙蒙--赵薇
+13. 流年--王菲
+14. 不浪漫罪名--王杰
+15. 有没有一首歌会让你想起我--周华健
+16. 香水--谢霆锋
+17. 野孩子--杨千嬅
+18. 终身美丽--郑秀文
+19. 恋爱大过天--Twins
+20. 如果这都不算爱--张学友
+21. 爱是怀疑--陈奕迅
+22. 绿光--孙燕姿
+23. 喜欢两个人--彭佳慧
+24. 记得--张惠妹
+25. 气球--许哲佩
+26. 候鸟--五月天
+27. 无条件为你--梁静茹
+28. 我爱你那么多--萧亚轩
+29. 天亮了--韩红
+30. 亲爱的你怎么不在我身边--江美琪
+31. 鸽子情缘--刘德华
+32. 烂泥--许志安
+33. 痛爱--容祖儿
+34. 我是真的真的很爱你--言承旭
+35. 花香--许绍洋
+36. 花太香--任贤齐
+37. 一笑而过--那英
+38. 离人--林志炫
+39. 一生有你--水木年华
+40. 爱就爱了--陈琳
+41. 开不了口--周杰伦
+42. 玉蝴蝶--谢霆锋
+43. Shall We Talk--陈奕迅
+44. 我真的受伤了--张学友
+45. 女校男生--Twins
+46. 唯一--王力宏
+47. 第一时间--F4
+48. 怎样--戴佩妮
+49. 那片海--韩红
+50. 蜗牛--周杰伦   1149   33
+>>>>>>>>>
+1986613252   冒泡完   好人一生平安（胸）   0   0   1986607502
+1986644818   爱吃番茄炒蛋的懒狗   课代表你好   0   0   1986607502
+1987023442   喵星人能有啥坏心眼er   14，32，33没听过。其他ktv随便嚎[吃瓜]   0   0   1986607502
+1987191998   依稀若梦desperado丶   随便来，我出生那年的歌，全部会唱[微笑]   2   0   1986607502
+1987349417   山内墙   马克吐温   0   0   1986607502
+1988179513   胖头鱼0_o   回复 @我不张狂可我很强 :你好，嘻嘻嘻嘻   0   0   1986607502
+1988186561   胖头鱼0_o   回复 @哈哈cwb啦啦 :哇，那我算老阿姨了[呆]   0   0   1986607502
+1988183691   胖头鱼0_o   回复 @喵星人面瘫蜀黍不吃鱼 :好像我也是。   0   0   1986607502
+1988353759   哈密吴彦祖   嗯？刁马旦[2233娘_困惑]   31   0   1986607502
+1988468296   爱吃番茄炒蛋的懒狗   回复 @算哪块小饼干_ :这么有心，辛苦辛苦（￣▽￣）   0   0   1986607502
+===================
+1987019528   喵星人能有啥坏心眼er   这时候四大天王还在出专辑，新生代已经冉冉升起。真的是江山代有才人出。可惜可惜。。。   157   3
+>>>>>>>>>
+===================
+1986836390   式神玄武身上纹   看了很多期老歌回顾的视频。我发现很多网友觉得基本都是港台的，所以对内地音乐人有点“偏见”。在此，我想帮内地乐坛说句话，内地音乐人的创作力和唱歌的实力从来都不弱，反而强的离谱，只不过和港台走的不一样的路线。港台很早就注重音乐的商业性，而内地一直更注重歌曲的艺术性和唱功的体现。因为注重商业性，所以港台歌手大部分都要走一定的偶像路线，俊男靓女更容易吸引到年轻人。而内地更多的则是比如刘欢孙楠韩红毛阿敏汪峰朴树之类的，貌不惊人但是要么唱功逆天要么作品艺术性爆炸的纯实力派。而那时我们年幼，欣赏水平有限，自然是港台音乐更合那时我们的胃口。我认为那个年代内地的影视配乐水平是华语乐坛独一档的存在，比如《西游记后传》的《相思》，《金粉世家》的《暗香》，《倚天屠龙记》的《爱上张无忌》等等，可以说是华语乐坛金字塔顶端的歌曲，只不过年幼的我们欣赏不来，更喜欢港台那些比较琅琅上口的商业性情歌。在2005年以后，内地才开始尝试走商业路线，《等一分钟》《秋天不回来》《天使的翅膀》《该死的温柔》等歌初露锋芒，但这个时代正值网络飞速发展，也导致了大量急功近利的歌手出现，导致不久后整个华语乐坛的歌曲质量暴跌，所以内地流行音乐在商业性的道路上没有走出自己的辉煌，也是一种遗憾。不过内地在影视配乐方面直到现在依然保持着顶尖的水平，在此也不用举例了。还有很多人说现在口水歌多，很多厚古薄今的。其实想想那个年代的部分港台歌曲何尝不是口水歌，只不过在那个娱乐条件匮乏，而我们年幼欣赏水平有限的年代，那些歌曲很好的填充了我们的生活，所以口水歌也就变成了经典的口水歌，现在知道他是口水歌还是觉得他是经典。现在年纪大了欣赏水平高了，娱乐条件也好了，所以对新生代歌曲有更高的要求了，对于现在的口水歌不感冒，就给了我们一种现在没有好歌的感觉。说不定现在的小学生中学生就像那时候的我们一样，以后把学猫叫奉为经典也说不定[滑稽]   419   67
+>>>>>>>>>
+===================
+1986649610   小别致挺东西哇   1.爱的就是你 王力宏
+2.安静 周杰伦
+3.恋人未满 she
+4.刀马旦 李玟/周杰伦
+5.第一次 光良
+6.情非得已 庾澄庆
+7.你要的爱 戴佩妮
+8.成全 刘若英
+9.美丽心情 本多RuRu
+10.一千零一个愿望 4 inlove
+11.流星雨 f4
+12.情深深雨蒙蒙 赵薇
+13.流年 王菲
+14.不浪漫罪名 王杰
+15.有没有那么一首歌会让你想起我 周华健
+16.香水 谢霆锋
+17.野孩子 杨千嬅
+18.终身美丽 郑秀文
+19.恋爱大过天 Twins
+20.如果这都不算爱 张学友
+21.爱是怀疑 陈奕迅
+22.绿光 孙燕姿
+23.喜欢两个人 彭佳慧
+24.记得 张惠妹
+25.气球 许哲佩
+26.候鸟 五月天
+27.无条件为你 梁静茹
+28.我爱你那么多 萧亚轩
+29.天亮了 韩红
+30.亲爱的你怎么不在我身边 汪美琪
+31.鸽子情缘 刘德华
+32.烂泥 许志安
+33.痛爱 宋祖儿
+34.我是真的真的很爱你 言承旭
+35.花香 许绍洋
+36.花太香 任贤齐
+37.一笑而过 那英
+38.离人 林志炫
+39.一生有你 水木年华
+40.爱就爱了 陈琳
+41.开不了口 周杰伦
+42.玉蝴蝶 谢霆锋
+43.shall we talk 陈奕迅
+44.我真的受伤了 张学友
+45.女校男生 Twins
+46.唯一 王力宏
+47.第一时间 f4
+48.怎样 戴佩妮
+49.那片海 韩红
+50.蜗牛 周杰伦
+讲真，我不喜欢这一年，歌太多了，你知道我打了一半看到进度条时的心情吗？？？   103   6
+>>>>>>>>>
+===================
+1989005536   狸子伽   原来的歌就像是唐诗宋词，能听懂但写不出来。现在的歌，就像是天，你真蓝，海你真大。自己待着没事瞎写配上乐都能发出来。这几年更是一年不如一年，真正的歌手基本没有了，全是一堆靠热度吸引流量的乐色[微笑]   90   3
+>>>>>>>>>
+===================
+2257968790   猫乱语   没有网络宣传的时代，很多明星都是六边形战士，要好看要能歌善舞，还要会演戏会综艺，因为那个年代，追星是买唱片海报演唱会门票，明星非让很多人喜欢自己，不然一人几十一百不够的。
+现在的一些明星，不需要很多人喜欢，甚至很多人讨厌都没事，他们的粉丝一个人一年能几万几十万的为他们花钱，这种粉丝有个千八百就吃喝不尽了。。。   39   0
+===================
+2083168750   遇好啊   为什么没有双截棍。。   45   5
+>>>>>>>>>
+===================
+2063832075   糖G果   还记得那些年千千静听吗   53   3
+>>>>>>>>>
+===================
+1987008732   杜鹤影Elio   没有《离别的车站》？
+没有《小冤家》？
+没有《好想好想》？
+2001年的赵薇表示不服！   32   77
+>>>>>>>>>
+===================
+1986613842   星野86   五分四十 谢霆锋 香水   29   1
+>>>>>>>>>
+===================
+2194413057   马云邪神   当时MP3一般就128m 能留在MP3里的歌，都是什么神仙，不用我多说了吧   23   0
+===================
+1986630168   星野86   15分19 谢霆锋 玉蝴蝶   27   3
+>>>>>>>>>
+===================
+1987009059   杜鹤影Elio   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+2001年能抗衡流星花园的只有情深深雨濛濛，可是流星花园上了5首，情深深雨濛濛只上了1首，呵呵呵呵呵[doge]   21   19
+>>>>>>>>>
+===================
+1987309832   灵时代   周杰伦   24   0
+===================
+2472340745   账号已注销   像我这种80后是不是在评论里也是老古董级人物了？？[尴尬]感觉2001年并不是很久啊，但是一想，已经是19年前了，我的天啊，那时代真的是神仙辈出，诸神之战啊，现在就是诸神黄昏了，那时众神打的太猛了，哎~~~以前的经典太多了   12   0
+===================
+2021142290   偏激少年和一头老母猪   2001年谢霆锋发行世纪预言，玉蝴蝶音乐专辑。   13   0
+===================
+2003541912   等一个紫色的棋迹   周杰伦世界第一（破音！   23   5
+>>>>>>>>>
+===================
+1986651922   相思难渡   我们的后辈还能听到什么歌呢，现如今的趋势，恐怕连屎尿屁类型的都听不着了   17   4
+>>>>>>>>>
+===================
+2097878957   白楓夢   直接无视黑色柳丁？！   11   1
+>>>>>>>>>
+===================
+3897121620   单推春日望   李玟老师才是花手鼻祖！   3   0
+===================
+2398004330   复古就是经典   杰伦俊杰的老歌依然吊打现在，国人已经很久没听到好歌了，毯星炒作网红还有微博的僵尸粉买热搜，真是人心不古，道德沦丧   10   2
+>>>>>>>>>
+===================
+2142243771   云南快乐精神病院院长   好兄弟萌你们不要整天谁抗衡谁了啊，不要整天抗衡小棒子小鬼子了，等我带一个系统重生回去让全世界都在说中国话[吃瓜]   3   0
+===================
+2102314403   阿亮1990   少了 双截棍 爱在西元前 简单爱  爸我回来了 忍者   10   0
+===================
+2099043971   煙仔2020   周杰伦真正开始在大陆红的是代言中国移动的一一一动感地带_我的地盘听我的。在新生代扎了根。因为当年的手机资费非常贵，动感地带包月短信非常划算，特别多年青人用。   9   3
+>>>>>>>>>
+===================
+2055412645   Jason_涛   双节棍呢   3   0
+===================
+2052834804   香香只爱伴伴   现在能称得上菜鸡互啄吗[doge][微笑]   3   2
+>>>>>>>>>
+===================
+2037248035   小区乔丹   原来初中是最好的时代，以为是开始没想到是巅峰   10   0
+===================
+1991285616   小柿子na   超玉蝴蝶和香水~谢霆锋让人惊喜   11   0
+===================
+1990366647   迎春花开555   陶喆呢   3   0
+===================
+1986927490   逆蝶就是我   哎哟~屌   11   0
+===================
+1986914766   透明小马甲   2001是真的神仙打架！   3   0
+===================
+1986566997   努力生活的wwy   真的绝！！这么多年还是那么好听！   8   0
+===================
+2083634682   王杰坂井泉水beyond   不浪漫罪名爱   4   0
+===================
+1986665860   浮生若梦＜   有些歌即使十几年不听，却永远不会忘记   8   0
+===================
+2085078806   wkeurhdi   流星花园和情深深是一年的？我很小就有看情深深的记忆  但是从来没在电视上看到过流星花园 也没听过名字。。。。   2   2
+>>>>>>>>>
+===================
+2066660921   东汉中年   居然没有双截棍，我晕了，周杰伦要是没有双截棍，范特西拿不了最佳专辑奖。周杰伦其他歌曲都可以略过，这首不能略过！！！   8   0
+===================
+2051918352   nanasmith   我是听那英的雾里看花长大的。第一首会唱的歌。   2   0
+===================
+1992124841   Flytimeoh   这些MV也真是棒，故事情节丰富   2   0
+===================
+1987012434   气死哈利波特   没有《双节棍》？   8   0
+===================
+2493926859   早睡晚起oh   我对现在的华语乐坛非常失望   7   0
+===================
+4513898121   凝雪丷   没有双截棍就离谱了[笑哭][笑哭]   6   0
+===================
+2836694580   莫高雷的星空   这年我高中，负责学校的广播站长，中午都是点歌时间，这时候主流是磁带！每天课间总有很多人来找我点歌，JAY的范特西绿色的磁带，我记着经常一中午的点歌都是范特西这张里的，后来索性从头放到尾……偶尔的王力宏，孙燕姿，其他的都基本排不上队……那年歌坛的繁荣无法形容……但是范特西那张横扫千军如卷席无人能及……   3   0
+===================
+2052382117   ZARD泉水不要认输   竟然不放陶喆   3   0
+===================
+3140326752   水金银化   初听不知曲中意，现听已是续费曲[大哭]   6   0
+===================
+99131551920   梨法官   许绍洋是真的帅，小时候最爱学他了[支持]   1   0
+===================
+99040694096   华安333   那时候我是用步步高学习机听磁带[笑哭]   1   0
+===================
+98895707584   反弹一切♂噢耶   倒退了   1   0
+===================
+98736296640   bili_21786379182   求下载地址   1   0
+===================
+5461358351   稻の   感觉又回到小时候了   1   0
+===================
+4987478362   紫色风铃2061   都听过！真是神仙打架！   1   0
+===================
+4578934908   山寨在黄家花园   1和46，词曲唱王力宏
+2和50，词曲唱周杰伦
+4和41，曲唱周杰伦
+5，曲唱光良
+7和48，词曲唱戴佩妮
+9，曲中岛美雪
+11，曲平井坚
+14，曲唱王杰
+15，词李宗盛
+15和35，曲周传雄
+16，词曲陈珊妮
+20，曲伍佰
+21，词曲陈奂仁
+22，词唱孙燕姿
+24，曲林俊杰
+25，词曲唱许哲佩
+26，词曲陈信宏
+29和49，词曲唱韩红
+37，词唱那英
+39，词曲卢庚戌
+40，曲张亚东
+41，词徐若瑄
+42，曲谢霆锋
+44，词曲王菀之   6   0
+===================
+3959874045   扶着犁往前看AUGUST   那个时候相信爱情吗   1   0
+===================
+3799295292   王先森11丶   1. 爱的就是你--王力宏
+2 安静--周杰伦
+3. 恋人未满--S. H. E
+4. 刁马旦--李玟/周杰伦
+5. 第一次--光良
+6. 情非得已--庾澄庆
+7. 你要的爱--戴佩妮
+8. 成全--刘若英
+9. 美丽心情--本多RuRu
+10. 一千零一个愿望--4 in Love
+11. 流星雨--F4
+12. 情深深雨蒙蒙--赵薇
+13. 流年--王菲
+14. 不浪漫罪名--王杰
+15. 有没有一首歌会让你想起我--周华健
+16. 香水--谢霆锋
+17. 野孩子--杨千嬅
+18. 终身美丽--郑秀文
+19. 恋爱大过天--Twins
+20. 如果这都不算爱--张学友
+21. 爱是怀疑--陈奕迅
+22. 绿光--孙燕姿
+23. 喜欢两个人--彭佳慧
+24. 记得--张惠妹
+25. 气球--许哲佩
+26. 候鸟--五月天
+27. 无条件为你--梁静茹
+28. 我爱你那么多--萧亚轩
+29. 天亮了--韩红
+30. 亲爱的你怎么不在我身边--江美琪
+31. 鸽子情缘--刘德华
+32. 烂泥--许志安
+33. 痛爱--容祖儿
+34. 我是真的真的很爱你--言承旭
+35. 花香--许绍洋
+36. 花太香--任贤齐
+37. 一笑而过--那英
+38. 离人--林志炫
+39. 一生有你--水木年华
+40. 爱就爱了--陈琳
+41. 开不了口--周杰伦
+42. 玉蝴蝶--谢霆锋
+43. Shall We Talk--陈奕迅
+44. 我真的受伤了--张学友
+45. 女校男生--Twins
+46. 唯一--王力宏
+47. 第一时间--F4
+48. 怎样--戴佩妮
+49. 那片海--韩红
+50. 蜗牛--周杰伦..53g   1   0
+===================
+3526655867   nic爱后余生   谢霆锋玉蝴蝶，潜龙勿用   4   0
+===================
+2868995354   逝水流年hu   暴露年龄，都是上高中那会的歌   1   1
+>>>>>>>>>
+===================
+2672593609   广西省灵山县石塘镇   初听不知曲中意，再听已是付费曲！！[滑稽]   1   0
+===================
+2556366328   那曾经的年华   过去听到歌反应是：卧槽这什么歌这么好听快去找找！现在是：这TM什么玩意也叫歌？   1   0
+===================
+2473847989   我教泰森打拳   有杰伦就有三连   1   0
+===================
+2427988478   土味老爹怎么又   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+离人这首歌张学友是原唱，18年有幸去看了他的演唱会，他像个小孩子一样在台上说“接下来我要唱几首总是会被人搞错的歌，不过你们要记得原唱是我喔！”
+有点腼腆，特别可爱，第一首就是《离人》。   1   0
+===================
+2367977189   就随便起个昵称好了   这些歌比2009的还熟悉   1   0
+===================
+2362056073   账号已注销   长江后浪推前浪，前浪……不好！鸡你太美！刹车！撤退！撤退！   4   0
+===================
+2238955322   八十一号先生   一开始的那个女生是谁啊，有人知道吗   1   1
+>>>>>>>>>
+===================
+2225254295   蟑螂-_-恶霸   后来也是这一年唱的吧[蛆音娘_偷看]我觉得值得上榜   1   0
+===================
+2216602245   北极老冰棍   那十年里，jay：你们是来争第二的吗   6   0
+===================
+2150618355   LV6-_-御坂美琴   为浪子而来   4   1
+>>>>>>>>>
+===================
+2144009431   FullBreast   今年会唱的只有11/50。但是好多歌都在不同的场合听过。   1   0
+===================
+2099575023   慕尼黑的冬天不冷   01年13岁，第一次听杰伦的歌，已经18年了啊，真快   4   1
+>>>>>>>>>
+===================
+2092010867   路熊路障   没有简单爱，爱在西元前   1   0
+===================
+2054566715   明可非倦   当年我第一台电脑，装机的给我拷了一个98，里面自带打鸭子、乒乓球，和绿光[doge]   1   0
+===================
+2052355313   啊拉龚   每首都是青春，听的老泪纵横[委屈][委屈]   1   0
+===================
+2052343755   啊拉龚   那时台湾歌曲占据大半中国音乐市场，特别是流星花园火遍大江南北，周董也进入我们眼帘！我当时刚出中，十八年了！唉😔！反观如今的音乐市场真的变化很大！   1   0
+===================
+2047690147   烤鸡不是烧鸡   周杰伦果然经典什么时候听都不过气   1   1
+>>>>>>>>>
+===================
+2046114463   ZP爱LXJ   2001年快20年了！[大哭][尴尬]   1   0
+===================
+2043808388   沈羽晨阡陌的   薰衣草 是我看的第一部偶像剧 炸   4   2
+>>>>>>>>>
+===================
+2042268251   柳石六   吊   1   0
+===================
+2002165605   弥豆子萨玛   up主在酷狗有没有歌单啊   1   0
+===================
+1991134543   啊对对对对就完了   这个up又推荐给我了，我都不懂这种不讲废话的视频怎么老推给我   1   0
+===================
+1990366647   迎春花开555   陶喆呢   3   0
+===================
+1987356767   叁拾贰歲魔法屍   当年还是买的磁带听，读大学的时候家里搬家两箱磁带权全都不见了，伤心了好久   1   0
+===================
+1987055668   sion55555   4.刀…马旦[无语]请置顶那位同学更正一下   1   0
+===================
+1986563242   核动力四轮车   那我就是第四？   1   0
+===================
+106450823712   想拿国家奖学金   出生   1   0
+===================
+100339713808   唯爱紫霞呀   大家好，我花了点时间把up主这个系列的绝大部分歌曲都给收藏到了一个歌单，方便大家可以集中的收听，由于一些版权原因所以有些不是原唱，抱歉。还有部分搜不到。喜欢的可以收藏哦
+分享lizhengde创建的歌单「特别经典的老歌」: https://y.music.163.com/m/playlist?id=7263790177&userid=416254517&creatorId=416254517 (来自@网易云音乐)   1   0
+===================
+4982762568   粉圈的智账你们好   黑那英的都是些什么货色呢，无能狂怒的你们[嗑瓜子][嗑瓜子][嗑瓜子][嗑瓜子]跳来跳去能怎么样，妨碍不了人家的出色呀[嗑瓜子][嗑瓜子]   2   0
+===================
+2087278433   疯-非梦致幻   没有双截棍我是不敢相信的   2   0
+===================
+2074220242   无名缘行   众所周知，许嵩＝非主流，杀马特＝非主流，所以许嵩＝杀马特（呵呵，天下无马邪？天下不识马也！）   2   0
+===================
+2164361810   jinyuehe程   孙燕姿就一首[微笑]差评 那几年最火的男周杰伦，女孙燕姿，其他至少差个档次   2   0
+===================
+1998432650   心米走了1   01年根本没周杰伦什么事，根本也没红，都是给别人写歌，而且90年的01年也就10岁左右，周杰伦是现在红，但01年真没周杰伦什么事，周也就双截棍和爱在西元前才红的，而且那时候喜欢周的人和讨厌他的人一样多，我也是夜曲发如雪之后才喜欢听周的歌的01应该是孙燕姿萧亚轩王力宏张惠妹光良的天下   3   6
+>>>>>>>>>
+===================
+99756089184   mr_chan1990   twins!!!   0   0
+===================
+99754224432   mr_chan1990   TWINS是我们广东人的青春!!!!!!!!   0   0
+===================
+99630046320   24077408879_bili   当年在娘胎里面听到你们这些成年人的歌曲，吓得我不敢问世，其实我还是挺享受的，现在所谓的歌曲让我实在忍不住了，md我满月了，你们看着是给红包还是给赞吧   0   0
+===================
+99393745152   种田派官方账号   有谁都可以  为什么有那英[doge]   0   0
+===================
+99118295968   轩辕无情5   为什么当年出的歌都是经典，现在的歌听一段就够了！   0   0
+===================
+99110817360   知知的巴巴   随便一首都吊打2021……[doge]   0   0
+===================
+99032157120   憨憨惠丶   流星花园。。我记得我在电视里第一次看到的一集就是道明寺把杉菜怼楼梯间里亲。。然后第二天就不播了[tv_偷笑][tv_偷笑][tv_偷笑][tv_偷笑]   0   0
+===================
+98884563184   藍風風   王力宏：兄弟们一起干♂[滑稽]   0   0
+===================
+97920370400   堕落在天空的星星   周杰伦：你们唱的歌，现在很流行，而我唱的歌十年后还很流行。现在打开QQ音乐的热歌榜，周杰伦的前十有一半   0   0
+===================
+97428752416   聽I这一季雨落   [嗑瓜子][吃瓜][doge]   0   0
+===================
+96284305168   w5411w   哀叹一声   0   0
+sleeping....
+===================
+96241683888   Shanghai1900   21世纪，我说一句高开低走，不过分吧[无语]   0   1
+>>>>>>>>>
+===================
+95931035104   来自遥远东方的   现在来看没有陶喆实在不合理   0   2
+>>>>>>>>>
+===================
+95743821296   梦灬凡   力宏终究是崩了   0   0
+===================
+94815945216   故水汤河   上了年纪的人 发现这些都听过   0   0
+===================
+94439566832   元次二TVT   这一年我两岁   0   0
+===================
+93820148448   孤单の奶嘴   好多人和我有同样的感觉，就是这些歌都听过，但到我们这边大火的时候好像已经是一两年后了，产生了时间错觉，我就觉得《第一次》是我初中也就是03年左右火的，估计是那时候还小，没关注娱乐节目，只知道看动画片的缘故，到了初中才知道追星，才知道流行音乐   0   0
+===================
+5813904342   胖胖的奶瓶   今天饭点…让我们回到20年前[笑哭]   0   0
+===================
+5703351752   仰泳的鱼肉肠   很喜欢诸神混战开始启动这句，有实力的人碰到一起合作竞争，无论成绩如何每个人都值得尊敬，看看现在..   0   0
+===================
+5144969031   麻烦您看一下个性签名   候鸟把我炸出来，还是阿信适合刘若英唱总有点奇怪！   0   0
+===================
+4965939823   泪花香   那一年，诸神陆续进去战场…接下来那几年，都是群神逐鹿！全杀疯了！   0   0
+===================
+4960005671   jsdwait   为什么弹幕没完没了地提到沈巍，是什么梗吗   0   0
+===================
+4866699313   D414   8：50这首歌送给沈巍。
+“我爱着他，然而他再也不是沈巍。”
+每次听到，就会想起沈巍。#朱一龙#   0   0
+===================
+4851821105   D414   4：57 当年每次坐深圳公交985/M278都会听到（尤其是下午）   0   0
+===================
+4842378024   月夜倚枪笑红尘   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+哎，没有蔡淳佳的《有心人，有情人》   0   0
+===================
+4691878328   仙草-   没有《双截棍》就离谱   0   0
+===================
+4659878772   思无邪君   88年的老年人路过   0   0
+===================
+4651493157   呆头鹅马老师   20年了。。   0   0
+===================
+4594502614   疯狂锅包肉   95年的我，很多没听过，真的很遗憾错过了神仙打架的时代   0   0
+===================
+4316565382   挖山先生   从01年听到06年，一首羽泉的歌都没？羽泉这么没排面的吗？[无语]   0   2
+>>>>>>>>>
+===================
+4248670672   李团长的张大彪   原来花手是从刀马旦mv里出来的？   0   0
+===================
+3872654322   B5司机   陈奕迅有爱是怀疑有swt为什么就没有单车？   0   0
+===================
+3828664907   医行天下   二十年了   0   0
+===================
+3797588890   擷芳惊澜   庾澄庆乍一看好像邓超 我天 哈哈哈哈哈哈哈   0   0
+===================
+3769075546   废物杂货铺   你能想象，现在和闺蜜去唱K，唱的还大都是20年前的歌？   0   1
+>>>>>>>>>
+===================
+3768258849   帝皇俠   这封面让我想起国宝   0   0
+===================
+3724794554   20518076787_bili   蛋蛋[微笑]   0   0
+===================
+3721784304   包包饱饱抱抱宝宝   喜欢两个人   0   0
+===================
+3687580183   许嵩什么时候开演唱会   表白我家小谢香水和玉蝴蝶，超爱这两首的   0   0
+===================
+3645143562   小熊吃竹猫   不像现在的歌手，哪出强的一面都够呛[疑惑]唱歌该自带电音，淦林那   0   0
+===================
+3636577577   泥泥超会玩   长发王力宏还挺帅的[打call]   0   0
+===================
+3576489892   六妖酒   这一年我上三年级，还没兴趣听歌，因为这个时候的动漫也很强大。但依然有不少歌听过，只不过不会刻意去找来听。   0   0
+===================
+3564277294   达达杀豬菜   《怎样》是什么梗？？   0   0
+===================
+3517493769   账号已注销   这一年竟然这么多神仙，真可怕   0   0
+===================
+3517486733   怀念在过去   2020年了 还在听这些歌曲  现在歌真的退步了，还是我们真的老了   0   0
+===================
+3443077390   bili_15512823930   摊牌了，我不装了，我91的[奸笑]   0   0
+===================
+2954903429   这个志志有点鸡   陈老师和阿娇怎么认识？当年好像他们一起拍了部吸血鬼题材的电影[OK]内容有点忘记了   0   0
+===================
+2947553479   sonduciel   王菲的歌经典   0   0
+===================
+2908884166   lee乐湖   我力宏打头阵   0   0
+===================
+2894941293   吃花婌的胖头鱼   泪了泪了   0   0
+===================
+2659099634   尼古拉斯大舌头   双截棍都没就离谱   0   0
+===================
+2629187754   cakenan2   一首歌就几句，这听什么。。我欣赏不来   0   0
+===================
+2578716479   M梦_雨Y   97年的我基本都会唱[喜极而泣][喜极而泣]she的歌去KTV都会点。都是青春回忆啊！好想去看他们的演唱会啊！   0   0
+===================
+2570328286   兵工厂战无不胜   为什么没有双截棍   0   0
+===================
+2561584053   嘻嘻嘻嘻嘻嘻大   花香我哭了   0   0
+===================
+2505903637   AfraLL   太有情怀了！怀念小时候啊，时间过得太快了   0   0
+===================
+2492287325   Sky丶忆星光   身为90后，听起来真的是满满地回忆啊（￣▽￣）   0   0
+===================
+2457889418   钢铁加鲁鲁   不把“双节棍”拿出来放，真的好吗？？？双节棍难道不神吗？？
+轮火热程度，可以把其他拉起来全A了，毕竟连门口守门也都会哼两句的歌   0   0
+===================
+2329435347   sukidesu1   单车呢？   0   0
+===================
+2237652253   丨丨禁语草   这么多00后蛋子   0   0
+===================
+2180806828   周了个叔叔   18年了靠，真快   0   0
+===================
+2177313662   二猴猴吖   如果01年应该有一个名字，那么应该叫“周杰伦”[打call]   0   0
+===================
+2175861617   提灯照楚慈   作为一个95年的 这已经不是我第一次发现 华语乐坛的兴衰年份 跟我个人的兴衰年份高度吻合…… 整个小学，08年初二之后开始底色就换了性格换了命，但是以前的老本还能扛着依然很优秀。10年之后开始彻底崩坏再也回不去   0   0
+===================
+2162891057   是毛贝   打开网易云边听b站边搜歌添加歌单   0   0
+===================
+2152223955   TØm   听哭了   0   0
+===================
+2147605751   午夜雪中行   好多人刚出生   0   0
+===================
+2134089355   挥着翅膀的猪猪虾   一闪而过的冠希哥是真的帅[喜欢]   0   0
+===================
+2131768814   火车系   我们现在还在一起会是怎样哈哈哈哈哈   0   0
+===================
+2124982938   莫小小小小小小凡丶   所以等了这么久。我冠希哥的坏孩子的天空去哪了[嫌弃]   0   0
+===================
+2115688225   SWzdhbggm   现在一想，小时候真是听了太多的好歌了   0   1
+>>>>>>>>>
+===================
+2111190407   青锋丶   还是以前的听着顺耳[奸笑]老年人到此一游！   0   0
+===================
+2107690180   Dcxxfs-x   孙燕姿 那时候的女神   0   0
+===================
+2101725364   凌夏卓洛   年少无知的回忆   0   0
+===================
+2092430656   吐鱼の泡泡Oo   想起明侦的，等等我   0   0
+===================
+2090684153   灬小咕哒   我十一岁了，弟弟们[阴险]   0   0
+===================
+2089552796   血沃咔   哭了，真的老了   0   0
+===================
+2087383410   妲己陪你玩儿哟   林宥嘉   0   0
+===================
+2067839510   捣浆糊之王   新时代开启   0   0
+===================
+2066416401   -buteo   全都听过……   0   0
+===================
+2064740010   MysLsc   18年前  emmmm   0   0
+===================
+2054242685   饼干的GG   01年，周杰伦的范特西，10首歌都可以上榜.....另外，还是没有永邦的歌啊，我记得01年的威尼斯的泪也是很经典的   0   0
+===================
+2050998197   龙王-太一   还是看靖武的吧，这个少很多。   0   0
+===================
+2045030274   病痛快飞走   周董真的太强了   0   0
+===================
+2044627743   汉斯不打烊   弹幕一群没素质的[嫌弃]   0   0
+===================
+2044351748   王小杜王小杜王小杜   没有网络歌曲，这一期已基本无槽点，棒棒的，都是年少青春回忆！[委屈]   0   0
+===================
+2043795733   沈羽晨阡陌的   张孝全？   0   0
+===================
+2043479462   不住在你家隔壁的王先生   年代太久远，好多歌曲都不熟。不过那时我是周杰伦的粉丝，他的那几个歌曲我倒是都会唱的   0   0
+===================
+2043144148   达达靓   去听听杰伦给学友哥写的歌，你会回来赞我！   0   0
+===================
+2043120626   纯纯粹粹丶   各位大神 给我坤坤一点活路啊   0   0
+===================
+2041897084   小珍猪王者接头   wow   0   0
+===================
+2040594994   Glad-You-Came   兄弟，不敢苟同啊   0   0
+===================
+2039300383   鹅___鹅   那年我坤降生了，鸡你太美和喂喂喂正是在那个神仙打架的时代开始创作的，历经艰辛险阻，耗时18年，终于诞生了这两个划时代的巨作   0   1
+>>>>>>>>>
+===================
+2034577482   令和年代的福爾摩斯   没有爱在西元前   0   0
+===================
+2020592180   肥权123   厉害神曲   0   0
+===================
+2015753949   哔哩啊游   01太多好歌了   0   0
+===================
+2011744701   楼主说的a   泪默   0   0
+===================
+2007568410   高三叁   千fa！！！！   0   0
+===================
+2000438907   靛一   up主情缘   0   0
+===================
+1994352326   十八-立十   居然有没听过的   0   0
+===================
+1993122443   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+执子之魂丶與子共生   你这个up主有点意思，关注了，以后每个视频都三连   0   0
+===================
+1990637356   LetsGoCELTICS   如果没有那个男人会怎样[尴尬][尴尬]
+我们是不是还不知道对方[大笑][大笑]   0   0
+===================
+1989897031   唐唐superman   2000年前也是神仙打架好不，齐秦，王杰，张雨生，苏芮，任贤齐，飞碟唱片，华纳，滚石   0   3
+>>>>>>>>>
+===================
+1989494644   pplindark   2001真的是经典一年 内地还有羽泉的热爱专辑 也是百万销量   0   0
+===================
+1988739028   Jolin的牌友   哪里有蔡依林，哪里就有追着她打麻将的我   0   0
+===================
+1987812980   悄悄咪咪的看着   哎,,Ծ^Ծ,,。。好看不火就是你了。。。。。   0   0
+===================
+1987224766   吐槽阿瞒   真神仙打架…   0   0
+===================
+1987216390   珍妮玛憨鸭   [嫌弃][嫌弃]00年的我表示全都听过，我的歌单里90左右很火的歌我全有……[无语][无语]如果你们有个90后的哥哥，你们可能就会明白吧   0   6
+>>>>>>>>>
+===================
+1987129314   死道友-不死貧道   怎么没有阿杜？那个时候阿杜的歌不是到处都在放么？   0   2
+>>>>>>>>>
+===================
+1986991212   会过日子吗   如今就有 喂！喂！喂！这么好听的歌   0   0
+===================
+1986942638   阿嘟嘟鲲勃   华语乐坛药丸了   0   0
+sleeping....
+===================
+1986794897   一地哀愁   呵呵，建议去a站看一下up歌述百态的视频[微笑]   0   0
+===================
+1986666781   呵呵呵具体   666   0   0
+===================
+1986632964   呵呵呵具体   666   0   0
+===================
+1986629621   花相似y   来了来了   0   0
+===================
+1986610805   Koyn_   这些歌真的好听！！   0   0
+===================
+1986605933   丶佩奇_   三连暗示[吃瓜]   0   0
+===================
+1986584372   -幻梦芳逝-   18年前了。   0   0
+===================
+1986567134   开心的年夜饭   第五   0   0
+===================
+117241233056   赵哈哈筱先生   https://c.y.qq.com/base/fcgi-bin/u?__=YuGrxHPrOcvD    QQ音乐歌单   0   0
+===================
+115209983040   RTY678   其实是台湾乐坛开始井喷的一年，90年代是香港的年代，00年代是台湾的年代   0   0
+===================
+114564570704   小瀞靜88   https://y.music.163.com/m/playlist?id=7263790177&userid=416254517&creatorId=416254517   0   0
+===================
+111359575920   雫るる-official   额呃呃呃   0   0
+===================
+106873500992   一百二十二   华语乐坛的巅峰应该是80 90年代 00年后内地和香港基本已经没落 流行的热门歌曲几乎都是台湾的   0   0
+===================
+106159520800   耽溺的遗憾   唉，青春   0   0
+===================
+105778459888   闻鸡起污   这一年属于谢霆锋，一年三张专辑，都是他歌唱生涯最红的歌，谁来都不行。。。[辣眼睛]   0   0
+===================
+103951619728   冰棒寒牛   都2022了，好多歌都还在听[热词系列_破防了]   0   0
+===================
+101946469248   hyjxxwb   那些年真的是神仙打架，好歌听个不停。现在是粪堆里找硬币   0   0
+===================
+101568206832   五舍四进   没有双截棍吗   0   0
+===================
+100066747520   tjutjulee   那时候是拼实力，现在的歌手都是玩造型   0   0
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+csv saved:./data/bilibilicomment/bilibilicomment_2001.csv
+
+================存储完成================
+

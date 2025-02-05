@@ -1,0 +1,36 @@
+2020 :length of the bullet_list is:3600
+Ratio of positive comments:  0.285
+Ratio of negative comments:  0.2142
+Ratio of neutral comments:  0.5008
+done
+top10 key words:
+[('大风车', 0.007417650828175027),
+ ('神偷', 0.007417650828175027),
+ ('好歌', 0.007417650828175027),
+ ('王姐', 0.007417650828175027),
+ ('刀刀见血', 0.007417650828175027),
+ ('及格线', 0.007417650828175027),
+ ('黄赌毒', 0.007417650828175027),
+ ('音乐手机', 0.007417650828175027),
+ ('对对碰', 0.007417650828175027),
+ ('腊鸡', 0.007417650828175027)]
+start generating wordcloud: ./data/wordcloud/wordcloud_music_year_2020.jpg
+save wordcloud picture:./data/wordcloud/wordcloud_music_year_2020.jpg
+2021 :length of the bullet_list is:1800
+Ratio of positive comments:  0.4433
+Ratio of negative comments:  0.1111
+Ratio of neutral comments:  0.4456
+done
+top10 key words:
+[('帅小伙', 0.010800837336441337),
+ ('好歌', 0.010800837336441337),
+ ('李克勤', 0.010800837336441337),
+ ('气不气', 0.010800837336441337),
+ ('跌份', 0.010800837336441337),
+ ('两首歌', 0.010800837336441337),
+ ('护花使者', 0.010800837336441337),
+ ('喜感', 0.010800837336441337),
+ ('无影脚', 0.010800837336441337),
+ ('集齐', 0.010800837336441337)]
+start generating wordcloud: ./data/wordcloud/wordcloud_music_year_2021.jpg
+save wordcloud picture:./data/wordcloud/wordcloud_music_year_2021.jpg

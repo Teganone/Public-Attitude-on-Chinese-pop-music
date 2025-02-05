@@ -1,0 +1,27 @@
+len: 209 26 27
+Epochs: 1 
+              | Train Loss:  0.348 
+              | Train Accuracy:  0.311 
+              | Val Loss:  0.388 
+              | Val Accuracy:  0.192
+Epochs: 2 
+              | Train Loss:  0.352 
+              | Train Accuracy:  0.311 
+              | Val Loss:  0.401 
+              | Val Accuracy:  0.192
+Epochs: 3 
+              | Train Loss:  0.353 
+              | Train Accuracy:  0.273 
+              | Val Loss:  0.386 
+              | Val Accuracy:  0.192
+Epochs: 4 
+              | Train Loss:  0.349 
+              | Train Accuracy:  0.278 
+              | Val Loss:  0.391 
+              | Val Accuracy:  0.192
+Epochs: 5 
+              | Train Loss:  0.346 
+              | Train Accuracy:  0.292 
+              | Val Loss:  0.391 
+              | Val Accuracy:  0.231
+Test Accuracy:  0.222

@@ -1,0 +1,36 @@
+--------------------- DONE!
+[2022-12-09 18:17:44] CONSTRUCTING TRAINING SET...
+--------------------- DONE!
+[2022-12-09 18:17:44] CONSTRUCTING VALIDATION SET...
+--------------------- DONE!
+[2022-12-09 18:17:44] CONSTRUCTING TEST SET...
+--------------------- DONE!
+CrossEntropyLoss()
+[2022-12-09 18:17:48] TRAINING...
+Epochs: 1 
+            | Train Loss:  0.546 
+            | Train Accuracy:  0.228 
+            | Val Loss:  0.494 
+            | Val Accuracy:  0.100
+Epochs: 2 
+            | Train Loss:  0.509 
+            | Train Accuracy:  0.191 
+            | Val Loss:  0.494 
+            | Val Accuracy:  0.100
+Epochs: 3 
+            | Train Loss:  0.509 
+            | Train Accuracy:  0.191 
+            | Val Loss:  0.494 
+            | Val Accuracy:  0.100
+Epochs: 4 
+            | Train Loss:  0.509 
+            | Train Accuracy:  0.191 
+            | Val Loss:  0.494 
+            | Val Accuracy:  0.100
+Epochs: 5 
+            | Train Loss:  0.509 
+            | Train Accuracy:  0.191 
+            | Val Loss:  0.494 
+            | Val Accuracy:  0.100
+[2022-12-09 18:18:41] EVALUATING...
+Test Accuracy:  0.286

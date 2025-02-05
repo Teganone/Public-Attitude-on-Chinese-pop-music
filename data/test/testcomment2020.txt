@@ -1,0 +1,1986 @@
+nohup: 忽略输入
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+===================
+3802009383   等一个艾特死等   1.交换余生 林俊杰
+2.平凡天使 邓紫棋
+3.是但求其爱 陈奕迅
+4.如果当时2020 许嵩/朱婷婷
+5.入海  毛不易
+6.温柔  五月天/孙燕姿
+7.天外来物  薛之谦
+8.不如先庆祝能在一起  萧亚轩
+9.海上蝶  周深
+10.悬日  田馥甄
+11.娱乐世代  汪苏泷
+12.麻雀  李荣浩
+13.像是一颗星星  杨丞琳
+14.赤伶  李玉刚
+15.你要相信这不是最后一天  华晨宇
+16.飞鸟和蝉  任然
+17.无价之姐  李宇春
+18.保重  王俊凯/谢霆锋/萧敬腾
+19.第二顺位  潘玮柏
+20.海底  一支榴莲
+21.我行我素我爱你  郁可唯
+22.姜子牙  张杰
+23.决斗场见  张韶涵
+24.Forever Your Dad  王力宏
+25.晚安歌  陈嘉桦
+26.羡慕    许嵩
+27.沉鱼  音阙诗听
+28.一颗星的夜  尤长靖
+29.千年之恋  双笙
+30.万国觉醒  邓紫棋
+31.Fight as One  陈奕迅/蔡依林
+32.二零三  毛不易
+33.小尖尖  韩红/薛之谦
+34.风平浪静  伍佰
+35.斗牛   华晨宇
+36.我非独自生活  郭静
+37.Home  蔡徐坤
+38.枕边人  胡彦斌
+39.在一起嘛好不好  李荣浩
+40.皆可  田馥甄
+41.微光海洋  周深
+42.破茧  张韶涵
+43.蝴蝶飓风  张靓颖
+44.无滤镜  林俊杰
+45.致明日的舞  陈奕迅   991   73
+>>>>>>>>>
+===================
+3801949219   我是一只胖大橘   我先来，我就喜欢这种不bb直接放歌的[热词系列_知识增加]   446   10
+>>>>>>>>>
+===================
+3801960475   我是一只胖大橘   [doge]2020年华语乐坛回顾之阮经天倒底拍了多少MV   328   8
+>>>>>>>>>
+3801964789   Lyocin   阮经天真的长了一张mv脸，几乎和所有华语女歌手都合作过   6   0   3801960475
+3801983193   Be_nature   帅诶   0   0   3801960475
+3802744793   麦某人丶   咱们关注点一样、   0   0   3801960475
+3803806731   念青春岁月   我盘点过阮经天拍过的MV，但是因为是4月份制作的，所以没有交换余生。BV1yV411o7Pz   8   0   3801960475
+3804168271   巴啦啦能量老污婆变身   回复 @麦麥唛丶 :好像说他开始就是个专门拍mv的   2   0   3801960475
+3808308605   Guti-古蒂   d   0   0   3801960475
+4093854343   只听主流音乐   天后的MV必有阮经天和王大陆[吃瓜]   0   0   3801960475
+112031587008   红柚酸奶   当年可是mv小王子啊哈哈哈哈哈   0   0   3801960475
+===================
+3802146668   Lv弑灵   我不管别人怎么想的，反正我关注up是来听歌的
+视频里出现听过的歌就发个弹幕，没听过的歌喜欢就去补，不喜欢就无视
+也不知道为什么，没听过也成大声嚷嚷的资本了[疑惑]
+炫耀无知？就很迷   308   10
+>>>>>>>>>
+===================
+3809847623   怪力少女琴吹紬   有些人根本不是来听歌的，就是专门来抬杠的，新歌手就说不如老歌手，老歌手就说退步了，你这么能华语乐坛就靠你了[微笑]   209   17
+>>>>>>>>>
+===================
+3802645245   求求中篇论文   就现在人听歌全凭情怀呗，不是周杰伦jj就难听呗，人品不好所以歌就是烂歌呗，我觉得有的弹幕太双标了，确实现在很多歌不如以前，但全部否定我不赞同，我认为有的歌其实还蛮能打的，10年前有些口水歌现在不也被当成神曲了吗[吃瓜]   304   21
+>>>>>>>>>
+===================
+3803028417   春风不迷人   听新歌要有一种空杯心态，摆脱固有的思维才能从技巧旋律等方面欣赏，如果一直有老歌好听新歌就是渣的心态，这种惯性思维还是不要听新歌，走不出那个⭕️，何必为难自己呢？   138   6
+>>>>>>>>>
+===================
+3802468142   teentoty   这也还行阿 怎么有人老是怀古踩新啊   170   19
+>>>>>>>>>
+===================
+3802854908   EVN本熊   你不听新歌你高贵咯[tv_鼓掌]   170   17
+>>>>>>>>>
+===================
+3802116034   榴莲爱豆腐   为林俊杰交换余生打call～～～up可以做华语live呀，这样就不用做年更up了哈哈哈   63   8
+>>>>>>>>>
+3802795851   貓猫奴   [星星眼]交换余生听一遍就喜欢上了   1   0   3802116034
+3804587941   Aries丶灵溪   回复 @貓猫奴 :我一下子接受不了，尤其是第一段副歌之后的那声“怒吼”，但是两下子就接受了[doge]   0   0   3802116034
+3806371752   不会咩_的羊   交换余生单专辑买了一张，幸存者里又带着一首[喜极而泣]   0   0   3802116034
+3806980265   编号19810327   yyds！   0   0   3802116034
+3879993538   sf的挽之歌   交换余生yyds   0   0   3802116034
+4291292494   彼岸落花_热忱瓜   交换余生真的是yyds！！   0   0   3802116034
+5351051382   Queen_n_Corgi   回复 @Aries丶灵溪 :哦嚯，你说的是经典的注入林魂桥段吗[doge]   0   0   3802116034
+5351975560   Aries丶灵溪   回复 @Queen_n_Corgi :没错[脱单doge]   0   0   3802116034
+===================
+3803674696   自然卷带   一大部分人不是在听歌，是在听歌手。   119   3
+>>>>>>>>>
+3811273371   虾滑少年   确实，现在能单纯听歌的太少了[呆]   3   0   3803674696
+5369717999   所念皆星河ん   看个乐就行了，这个UP搞的这个选歌本来就是选歌手，带有他自己的个人喜好，虚拟主播的歌他一个也没选过，很多网络歌手的歌他也没选过，别的不说光b站up主都有很多很火的歌曲他也没选。不过也无所谓，不与时俱进的老顽固注定是会被时代抛弃的。   1   0   3803674696
+5653892315   sunshine8574   正常啊，对于占绝大多数的普通人来说，听歌就是追求心情愉悦和放松，谁给你从专业角度分析？但是如果一个歌手本身就让我恶心，那你让我怎么寻求愉悦？   1   0   3803674696
+===================
+3801963145   止是一个人   建议把标题改为：2020年华语乐坛回顾，一首都没听过的都是大神[doge]（都0202年了，我还在B站听周杰伦的歌[妙啊]）   120   14
+>>>>>>>>>
+===================
+3802241847   likewhowho   服了，自己不喜欢听就开始说什么华语乐坛没落了，没落你个大皮球啊   119   25
+>>>>>>>>>
+===================
+3803032610   白嫖使我快-乐-   b站用户越来越多，不礼貌的弹幕也越来越多了   68   0
+===================
+3803261354   乌托邦yuqi   弹幕就TM这素质，恶心，都什么玩意，看个视频显着你了，真把自己当人物了。   67   0
+===================
+3802046318   Crime伤   张韶涵今年虽然都是广告歌，但是都好好听[星星眼][星星眼]   39   3
+>>>>>>>>>
+===================
+3804186509   缺了窒息   打问号干嘛？？   38   3
+>>>>>>>>>
+===================
+3803590365   飘摇的杀意   这就是b站的高素质用户吗，[热词系列_爱了爱了]   43   0
+===================
+3814490721   孙小悟yu   一边说着华语乐坛已死，一边去追捧能跟着唱的口水歌，只知道夸赞前辈们能打，连听都不听就直接根据主观印象贬低乐坛新秀，所以说华语乐坛迟迟不进步归根结底究竟是音乐人对观众审美的妥协罢了   37   1
+>>>>>>>>>
+===================
+3811352944   月亮不会奔你而来yu   一边叫着华语乐坛药丸一边抨击年轻歌手，真有你的，合着一首歌这么多歌手你都看不上？是他们的问题咯？   16   2
+>>>>>>>>>
+3811354799   月亮不会奔你而来yu   歌迷在买专辑，听音乐，键盘侠站在制高点人上人，真就饭圈不行是吧？[doge]   3   0   3811352944
+126595752832   ExpAnd瑶宝   回复 @月亮不会奔你而来yu : 年轻歌手不思进取 资本偷工减料 就这还指望大众买单？   0   0   3811352944
+===================
+3810114346   营销号退散   不知道这有什么可优越的，我不关注电视剧之类的，你就算说再红的电视剧红到天上去我也没看过，我不关注内娱爱豆，你就算给我喊破了嗓子我也都不认识，怀古贬今简直有毛病，我敢说就以前那种口水到不能再口水的歌你拿他和现在质量顶级的歌比，都有人说以前的歌好听，这种人太无趣了   16   0
+===================
+3809967488   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+炮姐就是坠吊的   这些人算什么？华语乐坛还得靠键盘侠来拯救[傲娇][傲娇]   31   2
+>>>>>>>>>
+===================
+3808536841   笔不见了啊   “希望大家的音乐审美能越来越高”   31   1
+>>>>>>>>>
+===================
+3802526934   为什么我又重名了   ？？？赤伶咋成李玉刚的了？原唱不是HITA？塔姐18年的歌怎么到你这变成李玉刚20年的了？先不说李玉刚团队有没有买版权，就算买了，这也是对原唱的不尊重啊   15   1
+>>>>>>>>>
+===================
+3804209548   二甲苯几十几   不是→_→一首都没听过只能说明根本就不咋听歌，或者说，不咋听中文歌吧。说只听过老歌的，这有什么值得优越的吗，还搁着以为是以前满大街放那几首歌人人听呢，互联网时代根本不能以之前的标准来评判。再嘴一句，我觉得，一些人根本就不咋听歌，不过是来开一下嘲讽秀一下优越罢了[doge][doge]   35   0
+===================
+3802875932   爱幂扬扬   喜欢破茧[打call]   12   2
+>>>>>>>>>
+===================
+3802427331   bili_745878093   汪苏泷《祝我快乐》、《小段》、高阶《大娱乐家》、《格林兄弟的诅咒》，除了好听没啥说的！   11   1
+>>>>>>>>>
+===================
+3802153319   lonnen   嵩哥嵩哥嵩哥嵩哥嵩哥嵩哥嵩哥   32   0
+===================
+3880147683   谦伴伴谦   薛之谦就是厉害，弹幕里阴阳怪气的，就是气死你，天外来物是今年网易云榜首，你气不气[歪嘴]   13   5
+>>>>>>>>>
+===================
+3810356894   立志成为一个富婆   [笑哭]我想说所谓的经典当年也是从众多歌中杀出来的，你再过二十年去盘点二十年前的歌，也会有很多成为经典。现在的歌你不能因为岁数不够大就直接给否了吧。总要给点时间，做评价也要客观点嘛，不能一句我喜欢老歌就否认现在歌手的努力吧[笑哭]   13   2
+>>>>>>>>>
+===================
+3806198817   一节蜡烛   华晨宇选的居然不是“好想爱这个世界啊”
+明明20年他火的是这首吧   43   5
+>>>>>>>>>
+===================
+3806245076   归-鸿   我就问一句，华晨宇咋着你们了？有什么深仇大恨嘛？   55   17
+>>>>>>>>>
+===================
+3802024624   丨忧思梦境丨   我个人觉得就麻雀和飞鸟和蝉俩好听   17   3
+>>>>>>>>>
+===================
+3810908487   是嘉树哒   总有人
+看个游戏攻略视频
+他发弹幕:我一次通。
+看个搞笑视频
+他发弹幕:有笑点???
+看个秀操作集锦
+他发弹幕:这秀吗??
+看个电影
+他发弹幕:有看点???
+看个动漫
+他发弹幕:有意思???
+看个唱歌
+他发弹幕:唱的好???
+看个感人的视频
+他发弹幕:给我哭???
+看个欧气满满视频
+他发弹幕:我单抽???
+看个黑魂3
+他发弹幕:有难度???
+看个外国文化有人赞
+他发弹幕:卖国贼???
+看个车展视频
+他发弹幕:100万算贵???而我想对这样的人说:
+你缺爱？
+还是缺存在?
+你不累吗？
+还是闲的慌?
+算你特立独行，
+但能不能不要装得不停?
+你是真的吊?
+还是年龄小?
+如果你真吊，请你控制好。就算你吊炸天，跟别人无相干。你装两次B，没人崇拜你。如果你只是想发表一下意见，那为何次次都和大家在对立面?
+日复一日年复一年，
+B站早已经无门槛。
+装B喷人处处有，
+自以为是天天见。
+人小嘴臭B事多，
+就该一拳送猪窝。
+转自《BliiyRenmod送弹幕大神之墓碑》   31   1
+>>>>>>>>>
+===================
+3802413606   栀夏Wf21wsl   那就汪苏泷今年发的新专大娱乐家   10   0
+===================
+3802542414   WA草祭   每个行当都不缺怀古贬今，我一直坚持以前有好歌，现在也有。交给时间来检验吧，过十年再回头听听现在的歌，相信你会有不一样的感受。没必要现在踩死了。   26   0
+===================
+3814520537   白尾巴的猫   这弹幕呢么多硬尬的吗？张杰哪里说他嗓子不行啦，到华晨宇全是？还有好多歌满满的？和骂人的话，是这些歌惹到某些人啦？   12   0
+===================
+3810890588   Thesta12   啊这，人家有的歌都是要钱的，你们白嫖的会听?   24   3
+>>>>>>>>>
+===================
+3815075201   不要创造需求   今年新歌特别对我胃口的有田馥甄，陈奕迅，华晨宇，李荣浩，还有Up视频里没有的萧敬腾的新歌《猴笼》   9   1
+>>>>>>>>>
+===================
+3801974560   KOP斌   一首都没听过的举手[doge]   85   21
+>>>>>>>>>
+3802104620   几度风沙   讲道理，温柔绝对听过   7   0   3801974560
+3802113762   三分归元气rua   如果当时   2   0   3801974560
+3802116872   在觅星途中   疫情时出的歌也没听过嘛，强啊[星星眼]   10   0   3801974560
+3802408196   宇宙无敌超级小薇丫   一脸懵逼的听完了[微笑][微笑]   0   0   3801974560
+3802430653   这脑袋瓜子保熟吗   就飞鸟和蝉听过，hhh   1   0   3801974560
+3802427465   无聊孤寂之人   回复 @10726797967_bili :啊这，的确一首都没听过[妙啊][妙啊]   0   0   3801974560
+3802765358   妩媚老中医   一首没听过 在家呆一年吗。。   3   0   3801974560
+3803098193   洋葱丶骑芝士   就听过麻雀和无价的旋律，其它都没听过[doge]都多少年没关注华语乐坛了，净听老歌、粤语和日语欧美了   0   0   3801974560
+3803113831   最后功略   回复 @liekkass :你确定没听过温柔？十几年前的老歌，今年翻新了而已   1   0   3801974560
+3804567794   Aries丶灵溪   有一说一，一首没听过很值得骄傲吗？说明自己音乐接受面太窄？还是家里没通网？还是谁的毒唯？   55   0   3801974560
+===================
+3801954017   她与星愿皆失   真不巧，交换余生正好买了   9   0
+===================
+3810457307   砂suk   看个人喜好，反正我大哥就是个打工人，要是爱听呢您就听，不爱听就那么回事儿，无什么一二三甲乙丙，随您开心😂😂😂祝你新年快乐万事如意财源滚滚。各位都好都好，up做视频辛苦了   21   1
+>>>>>>>>>
+===================
+3802177992   j甄吧lc   个人感觉：
+①第一遍能听出是谁的歌的不超过七首
+②几首抗疫歌曲虽然有意义但不好听
+③内地选秀出来的那几个，这次的水平还是比不上港台那辈的   13   0
+===================
+3802578317   flamecurrent   我思考了一下，为什么会有人一首没听过还点进这类视频看并且留下评论，大概有这几点“假音乐爱好者。一边想标榜自己都是听小众有质量的歌，不屑听有点火的歌，但是呢，其实自己的审美也就那样”、“只会听十年前甚至更久的歌，对新歌没有包容度”、“刷存在感”……欢迎补充[OK]   26   2
+>>>>>>>>>
+===================
+3814845594   the鸭脖   去回顾up主的“200x年华语乐坛”，就会发现一大半都是零几年就已经很火的歌手明星了，几十年后还是他们…
+邓紫棋，周深，毛不易，华晨宇…质量很好，但总体来讲新鲜血液并不多   18   1
+>>>>>>>>>
+===================
+3810655778   梦缘碧岚轩   原来这就是B站的弹幕评论啊，见识到了[微笑]   19   1
+>>>>>>>>>
+===================
+3802700790   wuli韶涵的小迷妹   你涵今年破茧还是够排面，实话说今年你涵的歌火了几首，可惜像黎明前的黑暗这种节目上唱的不是原唱[星星眼][星星眼][星星眼]   8   0
+===================
+3802477986   好吃的大橙子   破茧这调，换个人唱我真觉得不好听   8   2
+>>>>>>>>>
+===================
+3802087485   连朴饮   《飞鸟和蝉》在超市听到的，惊艳到了，反复听都很喜欢   8   0
+===================
+3804051386   綾烛ちゃん   素 质 弹 幕   19   0
+===================
+3802928975   shiyoyoma   再也回不到05年那百花齐放，群魔乱舞的时代了。虽然像JJ,GME 医生，深深这些我也很喜欢。但是来来回回的实力歌手就那么几个了。难受~   12   7
+>>>>>>>>>
+===================
+3803972182   芦荟咩/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+   哇，弹幕大佬们都好厉害耶！不知道都在听什么质量十亿起步的歌呢[酸了]我这种小人物好像听一听呢[大哭]哪位弹幕大佬看见了给推荐一些行吗，想想听到那种声音就好激动哦[星星眼]   18   0
+===================
+3801969175   _矛盾螺旋_   真心一般   19   7
+>>>>>>>>>
+===================
+3803986266   有一种快乐让我们生病   陈奕迅林俊杰蔡依林王力宏张韶涵田馥甄这些都还在发歌，你们都算幸运的了，至少你还活在他们的时代，一直说什么自己老了，你年轻的时候神仙打架是没错，现在也还没有诸神退散鬼在狂欢吧？还说什么没几首听过的，你不听能怎么办呢，你们是来找听过的歌的吗？   14   5
+>>>>>>>>>
+===================
+3807446628   抓抓熊爪手   欢迎来到以人评歌的大型现场[调皮]   14   0
+===================
+3805593530   妩媚老中医   别看薛之谦现在黑子多 等05后长大了薛之谦一定是会是05后的青春 就像95后对待许嵩的感情一样 这种感觉特别特殊。   9   4
+>>>>>>>>>
+===================
+3803234671   小鹿_Lula   嘲张杰别的也就算了，说张杰嗓子不行了？？？我直接惊呆了。张杰嗓子还不行？？？   16   3
+>>>>>>>>>
+===================
+3802509235   JustMew_n   买了林俊杰的新专辑，不愧是J J，最喜欢里面那首《最好是》
+汪苏泷新专辑也很不错，每一首都好好听，比较喜欢《讲个笑话》   9   2
+>>>>>>>>>
+===================
+3802071884   linhuacai   林俊杰陈奕迅牛逼   9   0
+===================
+3839556326   山月琴流   天外来物，麻雀，赤伶，飞鸟和蝉，无价之姐，海底，微光海洋，破茧，45首歌听过的不到20%[跪了]   6   0
+===================
+3803037552   渡鸦掠山河朝暮   其实听过不少，但说实话全都不咋会循环
+飞鸟和蝉初次听很好听，没多久就腻了
+破茧刚出一听打扰了，后来动漫bgm一起，才感觉：哇！绝配   6   0
+===================
+3802562304   我爸王健林   许嵩许嵩许嵩   6   0
+===================
+3802179254   Janice-Vidal   Selina的《四季》不配有姓名吗   6   1
+>>>>>>>>>
+===================
+3802097920   苻梓离   许嵩
+01：24 如果当时2020
+11：28 羡慕   8   0
+===================
+3801973071   我不能不帅   快进着听完了。   12   0
+===================
+3801987533   贴贴人一号   看看以前的再看看现在的   15   2
+>>>>>>>>>
+===================
+3807406092   Angel丶流苏   弹幕素质太差了，这个不行那个不行的，小学教的尊重都忘干净了   5   0
+===================
+3802521315   葱姜大料花椒蒜   其实很多网红歌都是好歌，只不过听吐了。。。抖音毁歌真的无敌   5   0
+===================
+3801948428   Hm丶千城   都没听过←_←   12   0
+===================
+3808009516   没有昵称不让玩   up要是随便放了一首周杰伦的歌哪怕是一首烂歌进来这里的喷子都至少要少一半，苞米的尿性懂的都懂[doge]   6   3
+>>>>>>>>>
+===================
+3802290067   ArtoriaClaudius   mojito不是华语么，还是周杰伦入外国籍了   6   6
+>>>>>>>>>
+===================
+3893124737   仙草意大利炮   指路田馥甄04:10《悬日》
+18:05《皆可》   4   0
+===================
+3877662525   安联不思议   JJ的交换余生、幸存者、暂时的记号、最向往的地方   4   0
+===================
+3802447148   teentoty   汪苏泷2020新专辑《大娱乐家》不错
+除了视频里这首《娱乐世代》以外，我也挺喜欢同名主打《大娱乐家》https://b23.tv/BV1NT4y1c7kV 
+也算是出道十年的诚意之作了   4   0
+===================
+3911108273   随遇野望   中国听众素质大倒退的一年。听众一年不如一年了。   7   2
+>>>>>>>>>
+===================
+3831540803   洛师不暴躁   真心讨厌那些贬低歌手和歌的人，打问号的人，既然你们不爱听又何必点进来呢？点进来就是为了来骂人家一句显得你人上人吗？一代人有一代人的回忆，现在的歌你们无法欣赏不是因为他们本身不行，而是因为你们长大了，再找不到当初听歌的那种感觉罢了，别在这里ky秀素质。我的青春是零几年的台娱圈，跟你们这些人上人的青春差不多，但我还就是看不惯你们这些人上人，只听老歌有什么值得骄傲的？你可以缅怀自己的青春，但是来这里ky贬低当代的文化你就是low逼，时代在进步，人也在改变，懂吗？你们这群人上人和当初嘲笑你们的青春的那些60-70后有什么区别吗？   5   0
+===================
+3808123789   越勇敢越幸运   不是你的歌曲质量又多高，它就一定好听，不是你的歌曲质量多口水，它就一定不好听， 我是个普通的听者，好不好听我的耳朵说的算… 真就是一年不如一年，质量越来越高？ 太可笑了   5   0
+===================
+3802236875   长空望断肠   过了这么多年了，还是他们啊   5   0
+===================
+3801962826   我是一只胖大橘   李荣浩下来就是杨丞琳，把[doge]骗进来杀吗？   5   1
+>>>>>>>>>
+===================
+3811206205   树脂鱼   推荐听一下华晨宇新歌的合唱版本，曲写得真的很大气，值得细品。https://b23.tv/U3KnP3   6   0
+===================
+3802163634   猫大叔OvO   95年的大叔表示大部分没听过，我是不是要入土了[捂脸][捂脸][捂脸]   6   3
+>>>>>>>>>
+===================
+3802031207   冰夜神尊   只听过一首李宇春的无价之姐，这还是因为B站前段时间无价之姐血洗的原因，不然一首都没听过[呲牙]主要是现在的歌真没什么好听的，还是以前的老歌好听的多   6   1
+>>>>>>>>>
+===================
+3938849963   法兰西的鸢尾花   [笑哭]不管怎么说，最起码2020的整体的曲风是比前两年正常多了。   3   0
+===================
+3932572815   眷思量丶烽烟迭起   土是相对的，都说周杰伦这些人不土味啥的，但是你到古代那些传世经典，比如十面埋伏前面，周杰伦的不也是土味。没必要搞得像人上人一样，更何况你们家里长辈可能听呢，还是友好点吧，不喜欢听不听不就行了，只要不抄袭，全凭个人喜好   3   2
+>>>>>>>>>
+===================
+3835659519   KimDaeDae_ss   “现在的歌确实不怎么样” 诸如此类的弹幕真的不少，也确实恶心到我了，我也不知道这些人是怎么活到现在的，吐了。   3   1
+>>>>>>>>>
+===================
+3818008880   今日份的雕雕   弹幕发问号不能彰显高贵只能说明素质感人   3   0
+===================
+3816980564   luckyyyerrr   啊老薛老薛   3   2
+>>>>>>>>>
+===================
+3812323238   97479391047_bili   只要邓紫棋还在写歌，唱歌，就有能听的歌！   3   0
+===================
+3812159345   爱撅嘴的兜兜猫   就 入海 麻雀 破茧 还有那俩首冷饭听过[笑哭] 入海是毕业歌 破茧因为斗罗大陆 搞半天今年流行音乐就听过麻雀[喜极而泣]，现在的MV越做越精良，但旋律咋感觉越来越不行了   3   0
+===================
+3810869189   你要做你自己   林俊杰[打call][打call][打call][打call][打call][打call]   3   0
+===================
+3807599513   灬暖城先森   今年可以啊这质量，都挺不错听下来，可能因为少了很多抖音口水歌，显得整个榜单都升华了   3   0
+===================
+3802441396   逸殇紫   个人也很喜欢玉先生，但赤伶真的还是原唱好听，玉先生翻唱的就是没有那感觉。   3   0
+===================
+3802078971   叶落它乡   麻雀不错   3   0
+===================
+108722749760   Amourkokoro   网友见人下菜碟功力真的可以啊，老牌明星的口水歌多烂都能吹，任然的歌都能说是抖音神曲，在那刷问号刷尼玛呢，海底这一首真的不比杨丞琳那首好？醉赤壁，江南要不是林俊杰的歌，是不是也是垃圾歌？没有点独立思考的能力，真的脑子不好   3   12
+>>>>>>>>>
+===================
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+3802520956   吾妻洛天依和焰灵姬   2020年的歌曲我只喜欢许嵩的《放肆》   4   0
+===================
+3802217212   狼と香辛料_   [捂脸]完了除了肥嵩之外基本没听过   4   0
+===================
+4440512636   摩多摩多摩拉多   弹幕真的没法看了  比wb还恶臭   2   0
+sleeping....
+===================
+4150867500   想不到好的昵称96   给许嵩打问号的都是什么意思，没听过没人让你听，（不是喷子）   2   0
+===================
+4054927135   sungjoy66   华晨宇的好想爱这个世界不是2020的吗，我喜欢这首   2   1
+>>>>>>>>>
+===================
+4023686545   癫圣逆风笑   我觉得那种不论什么歌都是直接发问号的真的膈应人，是喜欢喊麦?绝对超不过初中   2   0
+===================
+3958046389   cyqwer123   这么多人对人不对事的吗，我一直都不太喜欢周杰伦，但是承认他的歌很火质量也不错，他的某些不火的歌质量很高(不能说不火，就是没那么火)，比他某些很火的歌质量都高。   2   0
+===================
+3945156341   二十年满月   近年独立音乐疯狂生长，已经在华语乐坛占到了重要地位。就算乐夏带来的摇滚和电子风潮以及各类说唱作品不够大众，霍尊的《归一》和谭维维的《小娟（化名）》都不列入很让人质疑这个2020华语乐坛榜单的意义是否只是为了满足固定口味的受众[无语]。   2   0
+===================
+3943819111   Genie本本   没有承办老林那我就表白一下林俊杰吧[星星眼]交换余生 永远滴神[捂眼]《幸存者·如你》[打call]   3   0
+===================
+3822430333   胖胖胖胖pan   虽然没听过几首 但整个视频看下来好听的还挺多的啊   2   0
+===================
+3810197479   mooooooo临   哈哈哈哈哈哈哈哈哈哈哈针不戳   2   0
+===================
+3809924155   因为我真的好饿好饿   我都听过好几首，一首都没听过的是你自己的问题好吗   2   0
+===================
+3808749005   章岛   苏打绿呢？   2   0
+===================
+3808724493   华语好声音   林俊杰陈奕迅周杰伦张韶涵   永远的神   2   0
+===================
+3806881259   zqsht就是我   发现这里面老薛的天外来物和小尖尖是最好听的   2   0
+===================
+3806411708   _酒醉还来花下眠   剪的不行 歌曲剪的都不是最好听的部分   2   0
+===================
+3804441167   Mr小酷MrCool   嵩鼠集合   2   0
+===================
+3803735672   ★暧★   [doge]我不会刻意的去找歌听。都是看别人视频然后觉得歌曲不错才去搜的。（以前是逛别人空间或者玩游戏，然后听到喜欢的歌曲才去搜歌的。）   2   0
+===================
+3802842962   无聊的孤独患者   港台歌手的质量明显高很多，李宇春唱的是什么鬼，换一个没名气的人出的歌，还不给骂死？   2   0
+===================
+3802416856   账号已注销   李荣浩的音乐学的几十年前的郑智化，却没学到精髓。《麻雀》就像大排档里放的歌一样。   2   0
+===================
+3802371377   小张音乐社   李荣浩的麻雀是2019年12月发行的，今年是重新收录在发行的新专辑   2   0
+===================
+3802332683   不破清舟   好家伙，我一首也没听过，今年净听张宇的老歌了   2   1
+>>>>>>>>>
+===================
+3801964449   鹰佐忍者手游   交换余生听完就来评论了 我感觉我可能就听过这首 希望打脸[歪嘴][歪嘴]   2   1
+>>>>>>>>>
+===================
+121523903376   YY酷比   如果当时2020
+海底
+天外来物
+海上蝶
+悬日
+麻雀
+赤伶
+飞鸟和蝉
+无价之姐
+二零三 
+mojito
+
+我觉得自己的品味还是很固定的。杰伦，许嵩，jj、肥陈的都听，赵雷，李荣浩，薛之谦偶尔能get到，新生代的毛不易，周深也可。邓紫棋不排斥。
+华语之爹真的欣赏不能。流量绝对达咩！   2   1
+>>>>>>>>>
+===================
+120874085936   Master一目   华晨宇的斗牛真的震撼人心[支持]   2   0
+===================
+105340694400   却怀吖   [思考]我寻思也有挺多好听的，咋就一堆刷？？？？，听个歌也一堆杠精   2   0
+===================
+101553996432   悔いのないにじげん   张韶涵的破茧真的好听   2   0
+===================
+3962176289   喵喵喵虫   从耳帝的100首过来，本以为这个榜单可够主流够流行了吧，居然还有人嚷嚷一首没听过[疑惑]，我瞬间原谅了那些在耳帝榜单里发❓的人，也第一次知道原来那么多人听歌范围还停在中学的歌单。   3   0
+===================
+3839612799   Bili_196369302   老是有人说，当年周杰伦也被人嘲讽歌曲另类。那我要问了，周杰伦只用了5年，20多岁就占领华语天花板，如今的华晨宇，30岁了，有出过像样的专辑吗？都是翻唱歌红，跟如今的网红有什么区别。   3   0
+===================
+3802694741   戏菌与荼酱   [疑惑]这么早就做了，要是我周董31号出个歌怎么办   3   0
+===================
+3802447455   gem_lana_grande   就只听过平凡天使和万国觉醒   3   0
+===================
+3802312053   震撼御坂一整年   听的也是老人的新歌   3   1
+>>>>>>>>>
+===================
+3810042687   炮姐就是坠吊的   华晨宇果真腥风血雨[吃瓜][吃瓜]   3   0
+===================
+99066425520   Bili_36774449   没有hebe的无人知晓，有点离谱，90后大叔表示这是近几年真正爷青回的一首歌   1   1
+>>>>>>>>>
+===================
+95343601088   翌ee   20年了，还是这几个人[脸红]   1   0
+===================
+95332397776   佩普-瓜迪奥拉   说实话就只有破茧还不错，其他都不行   1   0
+===================
+95165691648   kiko音   up醒醒2021该做了   1   0
+===================
+94937321136   小周的蜡笔画不出   不说了，爱田馥甄   1   0
+===================
+5508597856   未知的旅途xyg   王心凌呢？
+她在2020年推出来极精选，你不用心哦~   1   0
+===================
+5145150850   小许嘛   弹幕打问号的都是nt吧   1   0
+===================
+5127314015   飘若絮然   有左手指月没   1   0
+===================
+5108322119   Eli莎白   我发现是不是Eason的粉丝是不是都不喜欢评论[doge]💢   1   0
+===================
+5041522028   亮治什么戏   张韶涵也很能打呀，从零几年火到现在   1   0
+===================
+4977466660   bili_1774494987   市场越来越细分，越来越碎片化   1   0
+===================
+4975521553   jsbshxubs   内地就剩许嵩李荣浩张杰薛之谦之类的了，大部分都已经步入中年。而且很多新人憋了一首爆款，然后马上埋头割粉丝钱去了，就盯着这批粉丝硬割韭菜，后续做的新歌也是瞎搞胡搞，结果没法吸引路人打不进主流榜单，只能靠粉丝刷榜，靠着国内外一些专业音乐团队做的曲子，词都是别人写，自己就负责随便吼吼，粉丝狂呼：顶级阴乐人！！   1   1
+>>>>>>>>>
+===================
+4809705360   冬眠虫儿   不是没落了是大家已经不配娱乐了  消费不起了   1   0
+===================
+4711578948   海月仙宫   果然人都会活成自己最讨厌的样子，都说老歌好听但是新歌也不差，听歌鄙视链差不多得了，如果你只会说一句不好听，唱功不行，这种烂大街的纯主观评价就不要拿出来丢人现眼了   1   0
+===================
+4405900189   东方财富拉萨狗子   听过一半的样子[doge]   1   1
+>>>>>>>>>
+===================
+4206622695   五号电   五条人的地球仪可以上阿   1   0
+===================
+4138839882   seventrys   喜欢JJ   1   0
+===================
+4121428750   呼吸不野   老林出道这些年一直未缺席[doge]   1   0
+===================
+4086729465   一个丷嗯嗯   最难受的是 绝大部分都是老人 新鲜血液太少   1   1
+>>>>>>>>>
+===================
+4084461822   第二天堂12345   2021了  发觉还是喜欢林俊杰的歌   1   0
+===================
+4045939692   W艾晨曦   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+没有积你太美差评[滑稽]   1   0
+===================
+4043244964   奶色鱼汤   提一下  tank  的  你的情歌。   1   0
+===================
+3999787727   亡者还是王者   思来想去，2020倒也没那么差，还是有几首能入耳的   1   1
+>>>>>>>>>
+===================
+3939838079   星之晚比比   2021的呢？[doge]   1   0
+===================
+3893150560   负能量传递员   说实话，从白金时代过来的，也就一首歌《飞鸟与蝉》还行，其他一般，《赤伶》也可以，很适合李玉刚，但是不是原创。   1   0
+===================
+3873803577   信仰的混合   就觉得现在有些歌过于冗杂了，曲子太闹了。。。不是我听的日漫歌那种虽然闹但是人声和曲子互相协调的闹，是那种会压制人声除了复杂表达不出其他的闹。当然可能有我个人对人声的偏爱更多的原因。。。   1   0
+===================
+3870274493   哥哥嘎子   开头的我没听过，但是好好听啊啊啊啊   1   0
+===================
+3866070543   寄北南行   听过两首歌，现在才知道名字，我觉得我不只是孤陋寡闻而已，而是处于大众华语乐坛的隔离区。看到有几首和抗疫相关的歌，推荐一首《漫长的告别》，有合唱和独唱版。   1   0
+===================
+3858078560   我的女王明日香   也就任天后那首算好听了，虽然借鉴候鸟和不能说的秘密   1   0
+===================
+3857775641   我的女王明日香   任天后今晚12点新歌惊喜来了，巴哥颤抖吧，今年发了13首歌了，明年发专辑，巴哥又摸鱼一年，还在ins上溜粉丝，羞羞脸   1   0
+===================
+3852191513   PigYYYYi   一首没听过。。   1   1
+>>>>>>>>>
+===================
+3852143513   杰基r   华语?没什么可听的   1   2
+>>>>>>>>>
+===================
+3838854958   库皮詹心徐静雨   为啥没听过的多？还不是因为现在的人天天打游戏刷视频，电视也都不怎么看了，这些歌怎么可能像以前那样在大众传播开来，现在的歌想火，就得靠抖音和b站鬼畜，这现象好不好我不评价，但这就是事实   1   0
+===================
+3823552687   K1llemo   UP有没有歌单分享一下呀，一个一个搜好累   1   0
+===================
+3817503103   寒亭   有些喜欢听网红唱歌的就别跑这说什么一首都没听过了，怪尬的[吃瓜]   1   0
+===================
+3813122863   想象天空   感觉今年还是10年甚至20年前那群人   1   0
+===================
+3811603215   未闻花名2333ww   有好多歌不能说难听吧，但就是没有把它收入歌单的想法，大多数全是千篇一律的[捂眼]   1   0
+===================
+3811469281   Cyndi丸心妮乄   我只听过树奈奈的飞鸟和蝉，这个应该是翻唱吧[doge]   1   0
+===================
+3811039493   失恋共和国   吴克群的歌怎么没有？   1   0
+===================
+3810579149   别拦我我要吃荔枝   很讨厌这种标题，因为弹幕肯定会有人在那边刷，自己听了多少首。没有人在意你们到底听过多少。[Cat_pressure][Cat_pressure][Cat_pressure]   1   0
+===================
+3810315167   珉风存   未来的经典[打call]   1   0
+===================
+3809407954   阳光好刺眼呀   Eason！   1   0
+===================
+3805533133   嗯丶卿言   入海，麻雀，赤怜，海底，破茧。独爱这几首，剩下的名字都记不住，哈哈哈   1   1
+>>>>>>>>>
+===================
+3805475813   柠檬黄西瓜红   听过的不超过5首   1   0
+===================
+3804558118   Aries丶灵溪   JJ的歌不放首《幸存者》好吗？双笙的歌来首《月夜》听众怕是更多吧，不会真有人没看陈芊芊吧？坤坤的《情人》应该也是热度要高一点吧？   1   0
+===================
+3803509824   Edwina520   终于触及到知识盲区了。听过的挺少。   1   0
+===================
+3803167438   韩7ong   我为我嵩评论一下啦：个人觉得《如果当时2020》老歌新唱这点，正如嵩哥在MV里说的配上家乡的黄梅戏圆了他写歌时的初衷。羡慕，放肆这两首也很好听。这里古风取一首《2020》也就不为《放肆》遗憾了。至于《温泉》，可能因为蓝调当今受众面不大吧，但我本人是大爱的！[微笑][微笑][微笑]   1   0
+===================
+3803143921   韩7ong   2020，老来俏[调皮]   1   0
+===================
+3802991539   情蛊丶丶   up怎么想的，b站不能放抖音放过的歌，咱们多高贵不知道吗？[妙啊]   1   0
+===================
+3802970876   转运RNA被吴青峰回复过   嗯。。内个，苏打绿主唱吴青峰的歌是不是应该也有啊（小声bb）   1   0
+===================
+3802892279   WNeverBackDown   如果当时还是听最早那版的吧，这版这个女声非常无语，反胃   1   0
+===================
+3802866543   秦时南风   竟然又发现二哥的一首新歌   1   0
+===================
+3802820879   幻觉支撑现实   许嵩《羡慕》质量还是很好的   1   0
+===================
+3802819185   小van意   咋没得《我爱你不问归期》   1   0
+===================
+3802808538   小van意   鲲鲲对不起   1   0
+===================
+3802793631   我竟与那曹贼无异   不对吧，很多歌都不是2020年的   1   1
+>>>>>>>>>
+===================
+3802753311   妩媚老中医   一首没听过的是与世隔绝了吗。。   1   0
+===================
+3802461667   清风筑梦y   Up，我给你写了一首藏头诗
+白日放歌须纵酒，
+嫖姚何日破重围。
+好是春风湖上亭 ，
+爽气朝来万里清。
+三万里河东入海，
+连山断处大江流。
+别巷寂寥人散后，
+想见城南春水深。
+[doge]   1   0
+===================
+3802237651   宸balloon   居然没有许光汉的歌。   1   0
+===================
+3802082427   夫子哩   快元旦了，那个死胖子还在憋大招吗？出道20周年啊[大哭][大哭][大哭]   1   0
+===================
+3802034258   叶舒华刷刷刷   喜欢elva!   1   0
+===================
+3802009848   未知的掌心   看到封面进来的[墨镜]   1   0
+===================
+3801993011   秦_風   只听过两首。一首温柔一首万国觉醒[微笑]   1   0
+===================
+3801981612   你比美团还能送1   咋没有松果糖豆闪电鞭⚡️   1   0
+===================
+3801966570   面朝大海心灰意冷   课代表呢   1   0
+===================
+3801944291   热血青年齐大壮   为双J打电话[星星眼]   1   0
+===================
+127547481136   季暑壳wwe   20年当时好听的特多，结果没几个上榜的，上榜的全是有名的歌手，但客观来说他们这些歌真一半。20年好听的90%都没上榜   1   0
+===================
+127547122592   季暑壳wwe   大家也都是只看歌手不听歌了啊，只要是你喜欢的歌手一出来，他就一定好，别的就一定差   1   1
+>>>>>>>>>
+===================
+116219999216   星家的太阳   张杰张杰张杰！[打call][打call]   1   0
+sleeping....
+===================
+114464473136   我cp锁了   只能感叹姜还是老的辣   1   0
+===================
+107884855312   Erebus莫邪   介绍一下：《横竖撇点折》bilibili2020拜年祭单品，up主真不打算放吗？那你来B站干嘛来了   1   0
+===================
+105164340880   路过的上官婉儿玩家   JJyyds   1   0
+===================
+104175061120   多空双杀1   说实话就麻雀还可以   1   0
+===================
+3958062352   cyqwer123   华晨宇也不只有高音啊，我听了他好多歌感觉还可以。虽然我觉得他的水平有时候表达不出他想表达的东西，或者说表达的不到位。   2   0
+===================
+3858228716   雨_凉念秋   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+别喷我，没有一首歌能让我想加入我自己的歌单，顺便说一句，华晨宇的音乐风格我个人接受不了；还有网红歌，听多了就吐了，代表是无价之姐；还有就是老歌新唱，我不作评价，反正我不听；还有就是不认识的歌手，我不认识我就不太想了解，就这样；还有，稍微能听的还是那些老歌手的新歌，其他的，都是垃圾。在此特别说一下华晨宇的粉丝，别咬人，说一句不好你们身上不掉肉。完。   2   8
+>>>>>>>>>
+===================
+3840003233   布莱克史拜德門   真不行了现在这些歌，只听过飞鸟和蝉，其他全都没听过   2   0
+===================
+3809999827   可爱深红爱浅红_叻   周深的选这两首游戏歌曲不太合适。你这10号的视频其中一首7号刚发，除了粉丝和游戏粉大概没人听。   2   7
+>>>>>>>>>
+===================
+3809918585   二次元的圆桑   我比较常听就是老林解解杰伦周深，有时候会听听花花   2   0
+===================
+3804276047   麻瓜打野林某人   听过的不多是因为我不看抖音🐴[哈欠]   2   0
+===================
+3804244149   猪脑猪身猪尾巴   老歌新唱，还是好听，今年大体方面真的不行   2   5
+>>>>>>>>>
+===================
+3803951353   Cassiopeia0610   人认识，歌基本没听过[笑哭]   2   0
+===================
+3803874551   michaelcph0505   跟上世紀全盛 時期真的差很多   2   0
+===================
+3803013118   王司徒之死   视频看完，只有几首歌有印象，华语乐坛真的
+没落了   2   0
+===================
+3802574673   一个甩葱的逗比   摸头村赞给了   2   0
+===================
+3802533676   你大爷还是你大爷233   《关于我在2020年还在听0405的歌这件事》   2   0
+===================
+3802523127   仙仙阿雄   好家伙，今年就只听陈奕迅的了   2   0
+===================
+3802206894   为您狩葔   华语的巅峰所剩无几了   2   0
+===================
+3802068441   戓筨   其实大多数歌还是好听的，只是我没听过几首   2   2
+>>>>>>>>>
+===================
+3802059961   绅士诱捕器   怎么没有张信哲的无别啊[大哭]   2   1
+>>>>>>>>>
+===================
+3802012771   路荒遗叹览足迹梦方破   没听过一半的都是大神   2   0
+===================
+3801965636   上清真境玉宸道君天尊   一个没听过[热词系列_知识增加]   2   0
+===================
+3802033882   真岛悟寅   一首没听过[呆]   3   3
+>>>>>>>>>
+===================
+3802096219   特立独行哒喵喵酱   是我老了吗……就没听过几首，而且没有眼前一亮的那种歌[生病]   2   3
+>>>>>>>>>
+===================
+3828365622   dearfriend_yu   华晨宇那个才多长时间的片段，就直接“就这”“这唱的什么？”“弹幕尬死了”
+怎么的账号买的是吗？入站考试都没考？
+弹幕还有说“弹幕刷什么玩意，这也好听？”
+哦，允许你说不好听，不允许我说好听？
+说真的，要是觉得不好听，就划过去，没人拦你
+要是有理智，觉得想听听好听在哪，那就去看看专业人士的reaction，会分析编曲，作曲，以及mv
+我们自始至终没有反对过批评，也没有反对过专业分析出来的指点，你要说“这里riff”垫的薄了，这种专业性和批评我们都接受
+而不是，你光看人，光弹幕上发个“垃圾，就这”
+我们不会认为你专业，只会觉得你nt   3   0
+===================
+95027359328   咲川の变脸   没几首能听的   1   0
+===================
+4987238470   TT小耗子   讲真从2004看过来的，刚开始还没觉得，因为那时候那几个人的统治力也确实没法说。但随着时间的移近，越发感觉up主确实有点主观了，有些歌在市场上压根没啥水花的，因为是某个经典歌手唱的也强行放进来，相反一些很火的如电音、说唱、韩流曲up主基本没收录，而我们不得不承认的就是这些歌已经占据了当今音乐市场的很大一部分   1   1
+>>>>>>>>>
+===================
+4541007181   镰虞   再过多少年老一代不出歌了，是不是新生代的歌都不听了？戾气那么重还听歌呢？纯找存在感。   1   0
+===================
+4259003489   滦亭诗   周董后期因为有了老婆孩子+快乐奶茶 现在已经放飞自我了[doge]  最近几年都在敷衍的发几首口水歌 没关系 你就好好照顾家庭吧   1   0
+===================
+4248220814   安设一声   2020年是真的烂   1   4
+>>>>>>>>>
+===================
+3950345801   最爱恐怖电影   华语乐坛终于彻彻底底沦为笑话了、烂的发指、烂到天际   1   0
+===================
+3808963882   Oo吱吱   喜欢毛不易   1   0
+===================
+3807774917   安德烈yea   一到华晨宇弹幕集体发癫，真有你的[支持]   1   0
+===================
+3806127934   cbs0601   2008以后全是垃圾   1   0
+===================
+3805476269   一叽咕呢   那些说没听过几首的，因为你就不是听歌的人也不是音乐爱好者，你们平常不听歌只是点进视频看看有没有自己听过的，一看，没有我听过的啊，然后华语乐坛不行了的言论就来了。   1   1
+>>>>>>>>>
+===================
+3804561409   子杰Harvey   一首都没听过[怪我咯]   1   1
+>>>>>>>>>
+===================
+3804278024   猪脑猪身猪尾巴   华晨宇今年的几首歌没有年初那首《好想爱这个世界阿》来的好   1   0
+===================
+3804057435   HATESS   只听过林俊杰的   1   0
+===================
+3803089209   timiro   面孔是老面孔，歌是真的不行了，不知道是不是今年年景不好的关系，acg那边没产什么好歌。今年的音乐领域可能是近十年来最崩的一年。[无语]
+希望明年能好起来[热词系列_锤]   1   0
+===================
+3803026499   百分百接大大王   今年还行，有种重回21世纪初的感觉。可是，能打的还是那几个   1   0
+===================
+3803020403   乔家老o绅o士   居然有鲲鲲我是没想到的[奸笑][奸笑]   1   0
+===================
+3802962054   碱式磷酸钙   本来想投个币的，一看到华晨宇，晦气，不投了。   1   1
+>>>>>>>>>
+===================
+3802869631   无聊的孤独患者   整个视频没快进，全部听完，新歌里面，只有陈奕迅的是但求其爱是反复听过很多次，总体来说比2019年更菜   1   0
+===================
+3802538892   moka咕咕咕   emmm 怎么没有mojito   1   1
+>>>>>>>>>
+===================
+3802447061   白羊梦L   果然还是老一辈的歌手在撑场，Mojito没上榜也没想到[哦呼]   1   1
+>>>>>>>>>
+===================
+3802259486   bicycle2002   人大部分都认识，歌只听过《温柔》，还是原版的   1   0
+===================
+3802146392   明年的我十八岁   好家伙，要不是一首温柔我还以为我一觉睡过2020年了[doge]   1   0
+===================
+3802142622   我不喜欢夏天啦   是我老了吗？感觉没有之前的好听了[doge]   1   1
+>>>>>>>>>
+===================
+3802139305   橙丶味_   偶买噶   好多没听过的[捂眼]   1   0
+===================
+3802121350   秋风丝雨   现在好像很“拒绝”这些歌，居然没一个听过。老人的歌好像也没共鸣了   1   0
+===================
+3802104444   喷火伦   一群不男不女！还以为很美！   1   0
+===================
+3802087433   透明小马甲   一首都没听过   1   0
+===================
+3802045274   xxiioo3   麻雀对于我们这种一线城市打工仔，真的好听   1   0
+===================
+3802011285   LLLLLLLLLLLLLLILLL   应该是听过一半以上都是抖神[妙啊][妙啊][妙啊][妙啊]   1   2
+>>>>>>>>>
+===================
+3802007593   上官云松   听过入海，其他没印象   1   1
+>>>>>>>>>
+===================
+3801989875   可可爱爱的小猴   现在的华语乐坛真心不敢恭维   1   0
+===================
+3801952562   海佬明   [大哭]2020马上结束了，我还是单身   1   0
+===================
+3801943600   住子哥   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+听过一半以上的，都有抖音[歪嘴][歪嘴]   1   4
+>>>>>>>>>
+===================
+3815389668   能拯救华语乐坛的祁神   周杰伦现在不写歌的原因不是因为懒，而是已经写不出来了，再写也只会烂了名声。只要我不写歌，有以前的歌撑着，就不会拉低我的平均水平[OK]瞧瞧人家林俊杰，这就是差距。周杰伦不行了   2   6
+>>>>>>>>>
+===================
+3803094567   DaVinci   00后10后真惨，以后只能听这些破歌   1   1
+>>>>>>>>>
+===================
+99878410832   沉默者00121   现在的歌没有旋律感了[笑哭]   0   0
+===================
+99160316000   林家安歌   林俊杰[打call][打call][打call]   0   0
+===================
+98904002400   台湾北望王师   漠河舞厅呢   0   0
+===================
+98682632256   听阈time   没有达拉崩吧   0   0
+===================
+98338141760   荒岛Isoland   一首都没听过。。   0   1
+>>>>>>>>>
+===================
+97877701760   哥斯拉语   怎么说呢，没怎么听过新歌，但是有几首都还是不错的，不过好像大部分都是影视游戏原声…   0   0
+===================
+97599881776   杀心道场化雨子   可以制作2021年的了   0   0
+===================
+97471936848   聽I这一季雨落   [嗑瓜子][吃瓜][doge]   0   0
+===================
+96819798944   汉尼拔下了抖森的咚   王力宏塌房了，但是歌是真好听   0   0
+===================
+96815899952   莲花县吴彦祖   竟然没有一首是抖音热歌，差评[doge]   0   0
+===================
+95959905904   Joan_S_   今年比20年或许好点？hh等更新[doge]   0   1
+>>>>>>>>>
+===================
+95651119808   sleepystrawb   我是刚刚从04年那期视频一直追到20年的，主要是想搞些听着喜欢的丢到自己的车载歌单里，一路下来，每期视频能让我放歌单的歌确实是越来越少，也可能是我的审美已经跟不上潮流了吧？   0   0
+===================
+95332077088   佩普-瓜迪奥拉   大部分都比较平庸   0   0
+===================
+95241328768   星河糖三角   能打的还是那些正经和老音乐人，现在火的都是抖音神曲。华语音乐质量真是肉眼可见的跌落谷底   0   0
+===================
+95136958400   ZhiNitaimei   感觉2020趋势也挺好的！   0   0
+===================
+94285736992   肥宅一枚-_-   坐等更新今年的了，虽然没几首能听的。。。。   0   0
+===================
+93612981568   华年ed   很一言难尽，20年盘点的歌听过的居然不到十首，喜欢的更少，真心觉得华语乐坛沉寂了，可能别人看来我落伍了   0   0
+===================
+5797813059   fishuuuu   。。。。。   0   0
+===================
+5797766502   fishuuuu   这？   0   0
+===================
+5754789872   毛弟不会c   [藏狐]以前出的歌又多且都能听 现在的哪怕是双j的歌都得挑着听更别说那些百万修音的裁缝们   0   0
+===================
+5746279065   追逐那颗九号球   从06看到这 大家都在说怎么还是这几个人 其实吧 一个行业里做到顶尖的真的就那么几个人 而且一个时代 也不会轻易落下[OK]   0   0
+===================
+5722245125   SAIL517   我发现有的人就是带偏见听，无脑看歌手，明明有的老面孔今年歌确实不行，有的歌虽然是网红但是好听啊
+
+抖音算土，B站算什么，非主流？   0   1
+>>>>>>>>>
+===================
+5681568815   随机播放的一天   只听过五首歌......   0   0
+===================
+5680951945   -千度高level   短视频所致，歌火是真火，烂也是真烂。能在抖音火起来，而不至于流为烂歌的，少   0   0
+===================
+5619078454   为少年轻唱   我喜欢周深。   0   0
+===================
+5597842028   我不想睡啊   键盘侠快拯救华语乐坛，快点，我等不急了，让中国的音乐走在世界第一，就靠键盘侠拯救了[给心心][给心心]   0   0
+===================
+5560614964   Hypernovaii   《温泉》为什么没有啊，2020除了《温泉》和《温柔》、《交换余生》剩下的还有什么[妙啊][妙啊][妙啊][热词系列_知识增加][捂脸][捂脸]   0   0
+===================
+5516994581   苦力啵   从03年看过来，感觉总体质量是越来越低。就算有杰伦这些大佬撑排面也不行，我从13年接触二次元歌基本就没听华语了，现在想找一些好听的华语歌发现好听的还是那几年的歌。不知道是唱歌的嘴不行了，还是听歌的耳朵叼了。   0   0
+===================
+5480748443   超高校级的kibo   有一说一，当年的青春恋爱手册也不错   0   0
+===================
+5460156173   MoonStarrr   从01年看到现在，好像是19年的歌吧，李宗盛的 新写的旧歌 ，居然没上榜[笑哭]我记得好像得奖了的吧，这歌后劲儿太大了，在我心里这歌比山丘还牛逼！   0   0
+===================
+5432452223   镜中衰鬓   想问一下，为什么很多人吐槽“这么多年了还是这几个老面孔上榜”，这个榜不就up自己排的吗？只要他喜欢，那几个老面孔可以一直上榜到死有啥奇怪的？
+像《下山》这样的歌我总觉得知名度未必不如榜单这些，不知道什么原因不能上榜   0   1
+>>>>>>>>>
+===================
+5400224595   saafiiiii   有电音元素某些人就开始刷土嗨的是有多土？   0   0
+===================
+5381332037   双料鸡汤特工穿山甲   UP应该加一手如果声音不记得，也很不错的   0   0
+===================
+5377876819   江河大海山锐繁星   十几年了，jj依旧挺立   0   0
+===================
+5339733554   丨Michael丨   不好听的我一般都说我欣赏不来，这才是高情商！但是那些抄袭的，口水歌我只会说难听，不服的憋着！   0   0
+===================
+5329861489   永恒类星体   流行歌曲不流行 没听过 还说不得了?   0   0
+===================
+5150218345   临越思明   杰伦？   0   0
+===================
+5127561757   赵雁辉   一堆刷 还是这些人的   怎么听个20年歌  就准备挂了  连50年都听不到吗   0   0
+sleeping....
+===================
+5116765895   你好啊灬丶   去 我一首没听过   0   0
+===================
+5041471357   亮治什么戏   我愿听之为华语乐坛最拉的一年，常听的才十首左右   0   0
+===================
+5006920905   黄昏之鸦   还是靠老歌手撑着我醉了   0   2
+>>>>>>>>>
+===================
+5005440673   以吾之名丨之以花   一系列看下李，看到华晨宇我实在听不懂他在唱啥？？？？？？？？？？？   0   4
+>>>>>>>>>
+===================
+5000210146   葡桃萄AYU_   收藏了05到20的歌，下次去了ktv就可以点了[打call]   0   0
+===================
+4992393300   就不吃饭   唉Ծ‸Ծ斌斌变成冷门了吗[大哭]胡彦斌你的歌超好听的！   0   0
+===================
+4992318607   Qskeeter卍   只听过赤伶[喜极而泣]   0   0
+===================
+4979861519   自_渡   我觉得乐夏、唱作人里面很多歌都比这些质量高[笑哭]   0   0
+===================
+4973351716   北氷洋   我觉得旅行团的《风犬少年的天空》不错   0   0
+===================
+4925411773   阿啾B站号   对比06年的，就是我听不到歌的故事和歌的情绪了   0   0
+===================
+4913912738   初音初代   弹幕素质堪忧   0   0
+===================
+4893355110   抽卡什么的无所谓了   可惜啊，早了十几天，错过重磅了   0   0
+===================
+4808711558   久而旧之o   [吃瓜]03看到20，竟然见不到梁博。   0   0
+===================
+4798964776   疾风阵雨   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+这几年建议去听台湾，还算保留几分水平，很多编曲旋律是可以给人耳目一新的感觉的，比如魏如萱韦礼安leo王都可以，风格迥异基本功扎实。
+个人并不喜欢近几年的歌唯一的原因就是旋律太不抓耳，副歌之前就淡如水哼哼唧唧和弦不过四个音的基本就差评了，没办法本人耳朵就是这么刁跟有些人所谓的“高贵论”毫无关系，各花入各眼就好不必自惭形秽完再yygq，素昧平生没人在乎你的，更别提想跟你比什么。你喜欢你就听就给好评就发最好的音乐时代的牌匾，言论自由时代不要玩尬的，想护着自己还管着别人太双标，别人不喜欢你的心头好别人就“高贵”了你就“不高贵”了大可不必。   0   0
+===================
+4763295891   -此生唯彦-   新歌不是说不好，听着还可以，但是真没有几首可以一直循环的歌了，现在的听了只是单纯的觉得还行，不是踩一捧一   0   0
+===================
+4724720472   打cass吗   新歌还是有几首不错的   0   6
+>>>>>>>>>
+===================
+4712120803   叫我秋准   最近几年也太拉了吧。。。   0   0
+===================
+4667015927   加热de时间   播放越来越低弹幕越来越少就说明很多问题了   0   0
+===================
+4646228631   球圣拉克什亚森   万青是不配吗   0   0
+===================
+4641652595   愛し合う関係だけ   没有王嘉尔   0   0
+===================
+4626598104   ZhiNitaimei   2020 其实真的很不错我觉得，比去年前年好很多！   0   1
+>>>>>>>>>
+===================
+4617870221   奈何GJ有高达   不是我说，真的拉的不行   0   0
+===================
+4617842467   我要玩弹幕   一路看过来我发现up应该几乎不听粤语歌，如果说定义的华语乐坛不包括粤语歌但是中间又有放一两首，所以估计是up不常听吧，不然粤语歌的经典几乎没放，而且近几年粤语歌虽然质量也严重下降，但是高质量的作品每年都至少有几首，这样也不至于都要把一些滥竽充数的歌盘点进来了[笑哭]   0   0
+===================
+4601624639   卷为   终于看完了这个系列，不过应该改名叫UP喜欢的歌手们历年作品汇总   0   0
+===================
+4576690088   账号已注销   2020年中国音乐已经完全覆灭了吧   0   2
+>>>>>>>>>
+===================
+4513992057   dxr1024   是不是所有没有mv的都没有选进去   0   0
+===================
+4508292973   メ曾经憧憬过ベ   李宇春竟然去唱那种鬼歌了，不至于吧，虽是路人但有点气   0   0
+===================
+4488159358   Jason丶Kwan   周杰伦太飘了，同时期的歌手还在奋斗。他竟然步入退休生活了。。。   0   0
+===================
+4463328485   无聊的啊妍   竟然听过6首，还是可以的[笑哭]   0   0
+===================
+4451503155   Desperado_777   近几年上榜的歌大多也都是十几年前的那几位歌手的，近几年华语乐坛真没什么新人新歌，只有一些独立民谣还算不错   0   0
+===================
+4426487742   萧瑟于秋   飞鸟和蝉、麻雀、破茧都不错，其他一般   0   0
+===================
+4406851845   少卫增八Ab   歌还是得经过时间的沉淀，曲就不一样   0   0
+===================
+4395060443   空中骑士-原子   老一代或转型失败、或拘于风格、或实力下滑，稳定发挥的人就越来越少
+新生代能力大多够不到优秀线，优点没有达到遮盖不足的程度，有待提升
+以及最重要的一点：时代在变化，流行的标准也在变，除了五边形战士级的曲目，其他歌曲很难兼容所有人的耳朵，跨时代必有代沟。更糟糕的是，生活节奏加快，音乐也会快餐化，对于很多人而言这是无法适应的。
+
+话虽如此，有些粉丝也注意一点，老歌手即使已经在走下坡路了，也比另一些还在向上爬坡的要站得高。
+同样的，老歌手即使现在站得高，可是终究会走下去，正在爬坡的新生代终有一天会爬到更高的地方。
+尊重是互相的，音乐是纯粹的，我们是来听歌的，争吵是没有意义的，理解万岁。   0   0
+===================
+4373570583   满脑子都是问号   ，明年再来了[捂脸]   0   0
+===================
+4309605124   我的基金全红   蔡徐坤那首home有把我惊到 没想到他唱歌还不错欸   0   0
+===================
+4297878505   fjktony   女歌手我最看好黄霄云   0   0
+===================
+4224489919   呆胶布呆斯嘎   [笑哭][笑哭]这一个系列听下来，真的是2020年的这个视频里没听过的最多。
+让时间见证一切吧，能在时代的洪流中沉淀下来的是最好的歌曲[加油]   0   0
+===================
+4211683132   XYtorm   如果当时2020
+入海
+天外来物
+麻雀
+飞鸟和蝉
+无价之姐
+二零三
+斗牛
+home   0   1
+>>>>>>>>>
+===================
+4189917381   似水但流年   反正是自己喜欢的风格就听  不喜欢听的就一跳而过就是这么简单哪来那么多事   0   0
+===================
+4187878143   托马斯穆二娃25   只听过一首。。。   0   0
+===================
+4180678188   Hatsune_墨檀dism   林俊杰、陈奕迅、王力宏、五月天、孙燕姿、田馥甄、胡彦斌、张韶涵等等这些华语乐坛老歌手质量还是不错的，周杰伦的歌曲近几年有明显的下降，稍晚一些的许嵩、汪苏泷、邓紫棋、李荣浩也还可以，新生代我比较看好毛不易、周深，别的歌或是歌手不评价   0   0
+===================
+4157000982   L不是真的   一句话这里面我都没听过[嗑瓜子][嗑瓜子][嗑瓜子]哈哈哈哈   0   0
+===================
+4146962325   丿小周周丶   一路看下来还是JJ励志，一直在进步，是因为没有老婆吗[脱单doge]   0   0
+===================
+4137948589   柠檬不萌ez   发现一个规律， 周董每年霸榜   0   1
+>>>>>>>>>
+===================
+4093284175   Jennifer-Joyce   06的听完了意犹未尽，12不想听了，好多以前叫口水歌的歌（遗憾非批判，勿喷，谢谢）   0   0
+===================
+4073002095   霁遊   3610121416171829324245都2020了还是EasonOK   0   0
+===================
+4052948544   35556456194_bili   怎么没有田馥甄的无人知晓。。。   0   0
+===================
+4037305801   下雨可以凉快嘛   我竟然只听过入海和几首抗疫歌……我肯定是被乐队的夏天毒害了歌单循环不是老歌就是乐队[笑哭]每天都在干虾米啊[笑哭]，我决定回到华语来，不然我都看不懂盘点了   0   0
+===================
+4034577249   肆肆肆海   emmmm。。我除了麻雀和如果当时还有决斗场，，剩下的真的不太能直击灵魂，这歌也不算少啊，估计是我听歌风格问题，但是质量也是一个问题[再见]   0   0
+===================
+4021682673   一枕梦星葵ヾ   [热词系列_三连]   0   0
+===================
+4008131200   Terren光影   像是一颗星星这么新的歌都放进来了[吃瓜] 真好   0   0
+===================
+3996776658   漫无目的地转弯   现在音乐这个东西说白了还是娱乐，哪来那么多曲高和寡，好听就是好听，不好听，排名再高也没有。   0   0
+===================
+3985381823   怪人刘海大婶   飞鸟和蝉还行，有点印象[笑哭]   0   0
+===================
+3985375546   怪人刘海大婶   没啥很有印象的[笑哭]太久没听歌了   0   0
+===================
+3979357314   一生无悔s   好多都是老歌手啊   0   0
+===================
+3965324241   阿阿阿阿阿阿阿茶   eason就是现在港乐的排面[doge]   0   1
+>>>>>>>>>
+===================
+3950983906   清风不可听   感觉弹幕可奇怪了，什么八零后不懂还是听老歌，不就和你们爸爸妈妈不懂你们的歌一样呗，有啥说的，就是老了[妙啊]不听不就行了还非来听[笑哭][笑哭]   0   5
+>>>>>>>>>
+===================
+3947999313   小西在二次元ナ   林俊杰和王嘉尔新歌 过 是去年听过的一首还挺好的中文歌   0   0
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+===================
+3945375123   L我不是囧囧Q   听过的歌一只手都可以数过来   0   0
+===================
+3939152890   乱步迷谭   就抖音火的那些歌，没有质量的。用完就会淘汰的。就像以前的歌，有的热度高，质量高。能火很久。现在的歌都追求数量，根本没有考虑质量。所以就导致以前老歌文艺复兴了。所以抖音上的那些曲目。能火一整年的根本没多少吧！今年吧！我最喜欢的还是飞鸟和蝉，还有2020的温柔和如果当时2020   0   0
+===================
+3938864889   精品男装全球代言人   2021年了b站用户还是唯爱抒情   0   0
+===================
+3936236337   枈枈枈枈枈   JJ现在绝对是一位纯粹的音乐人，有些事非得拉上他，真的有点莫名其妙（？）   0   0
+===================
+3934407181   後來以後   听过三首。听歌从不看ID。   0   0
+===================
+3931106648   杰西真好吃啊   这些歌我感觉缺的是高的制作水平，不是我吹外国歌曲，制作水平不是一个级别，这里面有的歌你跟我说是00年代的我都信   0   0
+===================
+3919411105   bili_342210150   还行   0   0
+===================
+3918233733   磊歌leige   我就听过一首飞鸟和蝉是不是废了[笑哭]   0   0
+===================
+3915125226   反义词的男子   没少年这首歌   0   0
+===================
+3912687566   cherrymmsl   我TM居然只听过其中三首我的天[笑哭]   0   0
+===================
+3911820577   浅梦梨花雨   真不知道弹幕是听歌还是听人  干脆以后别放歌了直接放人吧   0   0
+===================
+3911475103   别走哇   咋都没有吴青峰的歌 [捂脸]他今年也出了挺多歌  可能吴青峰是在台湾那边比较火吧   0   1
+>>>>>>>>>
+===================
+3911408478   J谦S着Y手   还好啊哈哈   0   0
+===================
+3905253990   小越lover   今年真的一般。   0   0
+===================
+3898158768   王子和公主梦   今年的歌说实话比去年的好太多了，可能因为公益歌多的原因，也可能疫情让大家能静下心在家研究音乐   0   0
+===================
+3894074297   MakeSoundStereo   还没等到《因为你 所以我》   0   0
+===================
+3893245153   社交逃犯   近年我找到了不少好听的中文歌，都是在酷狗里找到的哪个评论多就听一下。行星  尽管我们的手中空无一物（中文版） 篝火旁  黎明前的黑暗  最近  9420  侧脸  请先说你好  寂寞烟火  静悄悄  绿色，还有牛奶咖啡的那几首歌也很喜欢听   0   0
+===================
+3889193253   芋仔排骨   开屏暴击   0   0
+===================
+3889177210   笨笨的光景   我怎么就听过一两个[喜极而泣]   0   0
+===================
+3888410310   ninizmmm   没有风犬的歌吗？？   0   0
+===================
+3887305314   歌坛艺术家   除了一首温柔，其余的我都没听过。对不起了大伙我和时代脱轨了。   0   0
+===================
+3884922287   长岛冰茶不是茶i   今年解解的歌我比较喜欢《孤独》可能是太晚了把哈哈哈   0   0
+===================
+3879917911   爱水的fish   咋说呢？听过的不多，有些就是耳熟而已，心里感觉有些确实也好听，但是不耐听，或者有些没有打动我的心的感觉，个别还是有几首我喜欢我想下载的   0   0
+===================
+3879202513   沢云zryh   许嵩还有放肆，也很好听嘻嘻嘻嘻   0   0
+===================
+3877100489   只一眼_   我觉得像鱼最好听   0   0
+===================
+3874053844   庸子前来买瓜   新歌好多没听过[捂脸-圣诞]   0   0
+===================
+3873536761   与我的爱恋走唱星系   怎么没有吴青峰…   0   0
+===================
+3873373468   曼城之王CR7   一年又到头了   0   0
+===================
+3872216197   只求极黑出第二季   UP主，等明年再出一期吧，明明2020都没有过完，前两天三年都不发一首歌的陶喆都发了一首歌，还有五月天，还有我觉得挺不错的后弦也发了一首中国风的歌，这些歌明明都挺好的，为啥不可以入榜啊，免得总有人说华语乐坛要完   0   0
+===================
+3870890469   哇有人破防了耶   评论里的说一首没听过的蜜汁骄傲啊[辣眼睛-圣诞][辣眼睛-圣诞]   0   0
+===================
+3869626073   天才哲学家派大星   老了，新歌都不想听了，都找老话语歌和老日歌听了。很多东西都没那么容易接纳了   0   0
+===================
+3869046303   王姝婉1992   刘宪华专辑考虑一下。首首好听   0   0
+===================
+3868718345   云中洞记仇大赛冠军   每一首都挺好听的 但我怎么都没怎么听过[囧]  正经歌手还是强 可能因为现在不看电视 也没有彩铃广告了吧[捂脸-圣诞]   0   0
+===================
+3868046161   陪v泛岁月的涟漪   许嵩许嵩许嵩   0   0
+===================
+3860952412   花里灬胡哨   新元素，新编曲，新唱法不是新？只听歌词找个朗诵的视频看就好了   0   0
+===================
+3843477578   BMOLK   为啥没有周深的达拉崩吧。。。   0   2
+>>>>>>>>>
+===================
+3843043033   我是一只大喵喵吖   今年确实没什么歌能听的   0   1
+>>>>>>>>>
+===================
+3841739400   交友狂魔李华君   孤独也挺好听的，不是今年的么？   0   0
+===================
+3841145476   Tomorrow柳   为什么十几年二十几年过去了还是这些歌手啊，新生代到底能不能扛大旗   0   0
+===================
+3839502296   啊呵k   今年有没有大爆的神曲[喜极而泣]，还有没有stay with you[委屈],应该是叫这个名字   0   0
+sleeping....
+===================
+3836820958   一只废狗狗狗狗   张韶涵还是强   0   0
+===================
+3835799433   四宫辉夜   失望   0   0
+===================
+3834501739   暕辰-   田馥甄牛逼   0   0
+===================
+3832245598   姜酒凉   我杰哥牛逼   0   0
+===================
+3831522157   對酒當歌あ   吹爆《海底》谢谢，没听过就没听过，爱听不听   0   0
+===================
+3831521682   洛师不暴躁   华晨宇那个《你要相信这不是最后一天》我真的超级喜欢啊！！！虽然我确实是他粉丝，虽然他出圈的歌还是那首《好想爱这个世界啊》，不过在我心里，这首为湖北专写的歌更让我爱，真的！   0   0
+===================
+3830229978   米哈游我是你爸爸   嘿嘿，，一首没听过   0   0
+===================
+3830208794   睿睿睿睿阿吖   虽然很多没听过 但是理解时代过去了 现在是新一代的时代了 如果你接受不了 可以出去听老歌 
+我理解这种想法 因为我是90年代的 但却接受老一辈熏陶 所以80 90 00各个年代各有各的利弊 老歌哪怕现在听也有时代的质感和美妙 但新歌有新歌的特点   0   0
+===================
+3829856432   奥利特斯   十年前是这批人，现在还是这些人……无言以对   0   0
+===================
+3829102318   InmyblooD-   上半年听王力宏 下半年听陶喆 宇多田光[捂眼]   0   0
+===================
+3828518872   何事秋风悲画扇by拾柒   哎，华语乐坛十年前是这些人，十年后还是这些人。什么时候新人能撑起华语乐坛啊。   0   0
+===================
+3827844319   一颗迷你版的小土豆   没听过 不代表别人没听过 你觉得不好听的 别人觉得好听 也没人知道你的想法😁   0   0
+===================
+3827410553   可樂會加冰   火影忍者手游？   0   0
+===================
+3827279003   其兴也勃焉其亡也忽焉   没有特别让人惊喜的歌曲   0   0
+===================
+3826206032   不吃香菇rrr   你这弹幕戾气实在是太重喽   0   0
+===================
+3824583609   嘁喀嘁喀啾啾   无论是音形还是词都把听众推向低欲望的社会 这就是现在的华语乐坛[热词系列_妙啊]   0   0
+===================
+3823804761   左皮极右是网左   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+还以为华语乐坛中兴了，结果仔细一看还是那些老人[笑哭]   0   0
+===================
+3822222930   等天平失衡   一到这种视频弹幕都老懂王了   0   0
+===================
+3821483852   谢谢你_巨山超力霸   emmmm父母那一辈，肯定也觉得我们听的不如他们那一辈听的好听。。反正感觉每一代都会喜欢自己这代加以前的老歌。。。都觉得自己听的才是经典。。。
+反正我要承认，虽然歌手都是熟脸，但是大多没听过，也是因为我并没有去听新歌。。我永远都在听老歌。。有时会下意识的排斥新歌，除非某一天无意听到好听的。。就会听歌识曲一下。。   0   0
+===================
+3821472243   花開花落花滿兲   你这榜单就离谱，如果按流行音乐标准，就没几首好听的   0   0
+===================
+3821414323   itsme-Tracer   竟然没有梦然的少年、王心凌/杨丞琳的女孩们[捂脸]   0   0
+===================
+3820631015   小螺号wl   说句实话，听完了能让人记住的真没有几首   0   0
+===================
+3819945113   TommieFloweron   不建议这么快就出年度总结，感觉至少应该等个半年再来回顾看得更清些。
+无论如何不该年没过完就做。去年金曲奖国语专辑入围七张里面有五张是2018年最后11天里发行的，很多有金曲奖野心的港台歌手赶的是这个周期。   0   0
+===================
+3819922337   今天叫啥好   我居然只听过两首   0   0
+===================
+3819337592   splitkeeper   我听过一半以上，不算温柔如果当时这种老歌新唱   0   0
+===================
+3818032765   红楼梦作者诸葛亮   那个没人去听汪皮裤吗？汪峰出新专了，有几首还不错。还有杨千嬅也有。   0   0
+===================
+3817530767   CoShy   主要是歌曲太小众居多   0   0
+===================
+3817369708   花城烟花旧城逝   听过林俊杰，毛不易和许嵩的，五月天那个歌是老歌很久以前就听过了所以不算，交换余生最佳啊！   0   0
+===================
+3817335453   Jed想吃肉   17年之后就听说唱去了，现在看流行歌坛，好歌其实也都不少，就是可能还是需要时间去沉淀才能筛选出真正的好歌，不过有意思的是新人其实不是太多，大部分还是零几年那一批天王天后们，新歌手能打的确实不太多，不过汪苏泷在被扣上非主流帽子之后依旧这么坚挺，说明人家真的有实力   0   0
+===================
+3817308621   matemateye   弹幕有的人多少缺点   0   0
+===================
+3816322661   Camille4612   好多都没听过。。   0   0
+===================
+3816083003   对牛弹古琴   烂大街来说，李荣浩的麻雀应该是第一   0   0
+===================
+3815993418   依轮满月   弹幕的各位别秀优越感了 真无知   0   0
+===================
+3815772919   我有点左你忍耐下   [喜极而泣]卧槽，是我听老歌听多了太挑剔了了吗，发现没有几首上得了台面啊。   0   0
+===================
+3815584834   捌幺零玖柒伍   少年和冬眠不是2020的嘛   0   2
+>>>>>>>>>
+===================
+3815082392   不要创造需求   没有谭维维的3811？？这是一张要被载入史册的专辑啊   0   0
+===================
+3815077363   幸福的蓝发女孩珂朵莉   表白许嵩，过气歌手，就别抢我演唱会门票   0   0
+===================
+3814649499   龙神行者   我今年最喜欢的是刀郎的志贞，是不是太小总了   0   0
+===================
+3814407974   只因国民女神蔡徐坤   我只听曲不听歌，怪我耳朵挑剔这些歌都入不了耳   0   0
+===================
+3814375240   NormanFFRockwell   这些歌传唱度肯定不如从前啊 因为现在火的是综艺和短视频里面的歌，你是找不出一首既大爆又优质的歌，目前可能在台湾有一首，《刻在心底的名字》，但在内地还不是特别火   0   0
+===================
+3814198344   大角虫酒店   u1s1，一大半都没听过，不如放抖音神曲的，听着还有熟悉的感觉   0   0
+===================
+3813950524   账号已注销   今年的歌确实不太能打啊[辣眼睛]   0   0
+===================
+3813606039   灿烂的格子   索然无味   0   0
+===================
+3812097336   糯葱的爆米花   无价之姐是春春为了节目写的，因为节目要求要全民抖腿魔性，春春本身也有很多好的作品，不要因为自己没有听过就喷，还有黑称这种就别喊了，显得你们没有教养，每个人的音乐审美也不一样，也不是每个人都喜欢，你听过你喜欢的别人也未必喜欢，所以别当键盘手了吧，眼光长远一点，不要只听了一首歌就到处喷，到处骂，如果你是个弱智，没三观的话，那就当我没说好了[捂脸]   0   0
+===================
+3811703829   圆桌赛高JPG   哈哈哈哈   0   0
+===================
+3811521394   珉风存   听过五分之一[笑哭]   0   0
+===================
+3811364089   qkakp   woc？周深唱了不知火！[热词系列_知识增加]？我tm怎么现在才知道？   0   1
+>>>>>>>>>
+===================
+3809907076   忘崽小橙风   不管别人咋说，我就喜欢找新歌去听听。老歌我的歌单也有也会听。可能每个时代的榜单歌曲差距很大，但是每个时代都有好歌[奋斗]   0   0
+===================
+3809776771   夜影虹流   我怀疑有些弹幕对人不对歌   0   0
+===================
+3809682892   幽默小强哥   我老林可是整张专辑啊😄   0   0
+===================
+3809659560   libby910   这歌单可以，虽然里面有几首get不到，不过大体很不错了   0   0
+===================
+3809448338   朱小艾   就听过温柔这一首，今年听了许多新歌，但up主发的这些我没有听过，感谢分享，有几首歌还不错，在听了。   0   0
+===================
+3809125341   社恐说不要念我的ID   榜上的大多数歌手也是这些人追捧的“十年前经典歌曲”的产出者。一个个怀念什么呢，他们还在发歌呢[哦呼]只是自己没有听歌了而已，根本不了解的话拿过去来踩现在真的很滑稽。   0   0
+===================
+3809089738   武动乾坤大挪移花接木   就这？没有一首好听的   0   0
+===================
+3808295261   筱希j   呸   0   0
+===================
+3808074679   嘟督都读杜   二哥的这首歌额外的好听！我找到了宝藏   0   0
+===================
+3807889644   腐木有心   听过的不足十首吧，也发现了一些很好听但没听过的。总的来说，听的不多，不是说这些不好听，而是没有那种十足的惊艳感。就是那种考了98分的感觉，很好，但是不能一曲封神。当然，这只是个人感觉。。。   0   0
+===================
+3807792310   幸运的炮灰   全是老人啊   0   0
+===================
+3807616454   抓抓熊爪手   论质量竟然没有刀郎的新专辑。还有既然有破茧，那凡人的歌曲也不差啊。   0   0
+===================
+3807565198   大女主剧本拿好   多一些这样的回顾盘点吧，正好补充一下歌单！   0   0
+===================
+3807522608   黄色的大森林   一首没听过撤了   0   0
+===================
+3807383094   惊蛰隐寒霄   没听过为什么不能讲？以前cd录音带还能做到那么高传唱度的现在有多少？质量不行就是不行，我也不带有色眼镜看人，流量明星的歌也听过，但就是不行，跟以前比就是拉胯啊，视频里的歌有几个出圈的？天天网上冲浪有的我甚至都不知道他们发新歌了[微笑]   0   0
+===================
+3807315002   铭白的人   大部分是老歌手唱的，但歌都是新的。   0   1
+>>>>>>>>>
+===================
+3806973970   编号19810327   交换余生
+yyds！   0   0
+===================
+3806764262   Ann装腔作势   破茧 太可了   0   0
+===================
+3806759002   蒙面电视   这么多年了，依然还是这一帮老面孔[doge]   0   1
+>>>>>>>>>
+===================
+3806744903   细说千年   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+最好听的mojito没有，就没意思了   0   1
+>>>>>>>>>
+===================
+3806601415   无聊的五级号   荒唐，居然没有我割割的胱垫[doge][doge][doge]   0   0
+===================
+3806579888   鹿の芩   好多歌都是伴奏大于人声的，简直难受[无语]   0   0
+===================
+3806503162   先点燃一束烟花   交换余生后劲太大 yyds   0   0
+===================
+3806468228   不说晚安的人   有的歌是才发行的，有些带着优越感的人啊，知道个林俊杰，周杰伦可把你得意的不行了，没听过是你自己的问题不是歌的问题   0   0
+===================
+3806460954   视界之外的世界   怎么没许嵩放肆   0   0
+===================
+3806352377   回忆比现实精彩   up主要是把游山恋，游京，厚颜无耻，不知所措，飞鸟和婵，少年，你的答案这种抖音歌曲安排一波别人就不会生气了   0   0
+===================
+3806268213   大哲爱迪卡   就是把老歌手今年出得新歌集合一下咯……   0   0
+===================
+3806258311   好女孩春雨yu   我听周杰伦，我是人上人[OK]   0   0
+===================
+3806159351   栀子花与   平心而论，质量确实比不过二十一世纪头十年   0   0
+===================
+3806158257   鱼啊於   就三首歌听过，飞鸟与蝉，万国觉醒，交换余生，其它的今天一听，都是些什么鬼？不说耳朵都快流产了[doge][doge][doge]   0   0
+===================
+3806130577   皓翰星辰yoku   没有邓紫棋的《孤独》？   0   0
+===================
+3805973920   迷途竹林h   是累了吗？  听着没感觉   0   0
+===================
+3805496240   一叽咕呢   现在听歌似乎还是听歌手的声音，，，很少听编曲的   0   0
+===================
+3805350074   秋叶随风005   一首没听过。收藏的四百首歌反反复复听了近两万遍，一面歌荒一面拒绝新歌。。。   0   0
+===================
+3805192030   脸黑到煞白   就一首那是海底还是深海来着，挺空灵的，当入眠曲不错   0   1
+>>>>>>>>>
+===================
+3804824147   岂曰无衣0510   为啥没有郑中基的   0   0
+===================
+3804805725   渡鹤斋   不至于 我平时听小众却也听了不少华语   0   0
+===================
+3804710274   大白兔奶猫喵喵喵   我去。。今年我唯一听过的歌是《无价之姐》但是弹幕也太。。那啥了吧   0   0
+===================
+3804591436   哒哒小阳光   要知道一首没听过可以说是正常，但这绝不是一件值得骄傲的事。我更爱听老歌，但也听新歌。每次看视频遇到喜欢的就默默去听完整版+加入歌单。而有些人看到标题就开始嫌弃了，新歌怎么可能有好听的？我不确定评论区嫌弃的人是不是都是这种心态，或者是真的不符合自己的胃口。反正我是又扩充歌单了[OK]   0   0
+===================
+3804588109   FanchHsu   封面进   0   0
+===================
+3804567466   都说了我不喜欢换名字   真的没一首好听的，差05年童话那年的水准差远了   0   0
+===================
+3804269326   猪脑猪身猪尾巴   悬日质量真的不错   0   0
+===================
+3803981475   曾宇檬   Eason的好好听啊[打call]   0   0
+===================
+3803953488   格罗索   今年的歌交换余生跟孤独听了很多遍   0   0
+===================
+3803834449   fsdfsdafsf   我就问一句说唱呢？   0   0
+sleeping....
+===================
+3803713611   ★暧★   [doge]我一首都没有听过。   0   0
+===================
+3803661366   迈借生好莫   期待年底的嵩哥[吃瓜][吃瓜]   0   0
+===================
+3803584166   哦O型血   每一首都那么难听   0   0
+===================
+3803548754   王族love   一年一更的来了？我记得一年前狂更年份歌曲   0   0
+===================
+3803468477   亲斤世纪福音战士   好家伙，我居然一首都没听过，90后已经老了[doge]   0   0
+===================
+3803465947   庭前瑟瑟树影移   这几年都沉迷于河图的歌了，这里面的歌就听过几首，还是别人抖音外放听的。   0   0
+===================
+3803447794   遇见愚贱   [热词系列_好家伙][热词系列_好家伙][热词系列_好家伙]   0   0
+===================
+3803328965   三尾狐t   一般   0   0
+===================
+3803263274   明月JM27   居然还有这么多新歌，不过为啥没有幸存者呀   0   0
+===================
+3803250351   だるま坊主   呵呵   0   0
+===================
+3803217309   墨白飞客   任然可以，今年电视剧里的那年初夏，重新填词，很好听   0   0
+===================
+3803182680   大女主剧本拿好   真的听得不多，不知道该从哪听。。。但是觉得可以补一波了，感谢up   0   0
+===================
+3803172477   窦琪媛   说实话听完了，大部分都听不来 。还是老歌适合我呀 。   0   0
+===================
+3803112954   搬到悉尼的李文哲前妻   为何没有幸存者呢   0   0
+===================
+3803096692   丿晨丶熙   除了翻唱的老歌，2020真的没啥惊艳的或者能循环一天的   0   0
+===================
+3803050289   whbyyawjh   感觉就jj和胡彦斌和伍佰能打点，剩下的我顶不太住   0   0
+===================
+3803021554   美人鱼咖啡   一年不如一年   0   0
+===================
+3802956919   垂帘几度青春老   ……弹幕真的就是从头贬低到结束，对歌曲百般挑剔，除了说薛之谦渣男的我赞同，其他只能说保持沉默。   0   5
+>>>>>>>>>
+===================
+3802954151   芒果真好吃哼哼哼   特斯拉我们 被你聊晕啦   0   0
+===================
+3802824325   月见南风   所有的歌里，惊艳到我的就交换余生，入海，不如先庆祝能在一起，破茧，微光海洋这五首了。虽然每个人的审美不同，但是今年还真没什么歌能打   0   0
+===================
+3802803232   九月新学期   很多歌都是VIP才能听，所以没听过[doge]   0   0
+===================
+3802787488   HH789515   只听过飞鸟和蝉，无价之姐   0   0
+===================
+3802786457   plm言子   听过的五首都没有   0   0
+===================
+3802780121   暖床胖子   滴滴滴滴，我还以今年没有好听的   0   0
+===================
+3802775935   主管殿前司公事   感觉2020年的就算可以的了。（指在近几年中）   0   0
+===================
+3802765852   高圣白   从选曲可以看出来个人审美偏向   0   0
+===================
+3802750103   你干的事我都知道了   90%没听过[微笑]   0   0
+===================
+3802737995   my崔丝塔娜   就听过麻雀 赤伶 飞鸟和蝉这三首   0   0
+===================
+3802728035   满配M27   邓紫棋的孤独和jj的幸存者也没有，俩cd的歌都不给全   0   0
+===================
+3802724044   皇氏柒公子   迟早要在B站里把 飞鸟和蝉 听到吐   0   0
+===================
+3802718698   没有梦想的废狗   间接说明2020有点不行   0   0
+===================
+3802703417   谢谢你_巨山超力霸   人。。倒是都认得[笑哭][笑哭]尴尬了   0   0
+===================
+3802687985   御坂桜   20年前的歌：这tm都是什么怪物？
+20年而今的歌：这tm都是什么怪物？   0   0
+===================
+3802647059   Double-buth   坤坤和丫丫合唱的山河无恙在我胸非常不错，不是黑，真的是实力派（但是鸡你太美实在改不回来了哈哈哈哈哈）   0   0
+===================
+3802631283   早已看清一切   梦开[星星眼]，中崩[嫌弃]，疑生[疑惑]，霍金[灵魂出窍]   0   0
+===================
+3802597199   楚军座   2020的新歌底子明显不比以前好了，很多没听过或没感觉   0   0
+===================
+3802563716   正在嘴硬   只有 平凡天使 有点情怀的感觉，飞鸟喝茶听多了也腻了，其他的快进，什么花里胡哨的。   0   3
+>>>>>>>>>
+===================
+3802562022   辞三狗   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+入海让我关注毛不易，疫情期间总是放《平凡的一天》，幻想生活一如往常，平静美好。
+飞鸟与蝉我很喜欢。
+陈奕迅的新歌有点拗口。
+音乐是情绪的艺术，其他的歌也好听，只是触不动心事。   0   0
+===================
+3802546455   紫0嫣   感觉标题后半段可以不要   0   0
+===================
+3802540544   Grace012   沒有mojito?   0   0
+===================
+3802537224   点灯的小螃蟹   讲道理。。。除了无价之姐。。都没听过   0   0
+===================
+3802534357   为什么我又重名了   麻雀不是2019.12.5？这可是你自己的视频里的BV1CJ411876R   0   0
+===================
+3802530998   苍流忆笑雪   周杰伦呢[疑惑]   0   2
+>>>>>>>>>
+===================
+3802513600   被打成压缩包   听过十四首，害行   0   0
+===================
+3802510084   出来就一发   歌神杰伦合作的都没有？？！？   0   0
+===================
+3802503730   颓废xz   还是老哥好听   0   0
+===================
+3802501977   BABY梦里飞行   好多老歌手都发歌了，但是却很少有曲词都捉耳的了。感觉记得的就麻雀，入海，跟求其爱。   0   1
+>>>>>>>>>
+===================
+3802488083   饲养员赵大叔   这个时代还肯做华语流行歌坛盘点的，大家都珍惜点吧~UP主加油，辛苦了！   0   0
+===================
+3802474476   cdklpqsxy   我要把没听过的锅甩给up，就不能做个年中盘点，一季度小结这样的嘛   0   0
+===================
+3802463734   脏兔子zzz   感觉还可以呀，现在不像以前了，打开qq音乐直接打开排行榜就行了，一边玩着梦幻一边听歌[doge]   0   1
+>>>>>>>>>
+===================
+3802421842   WP142857   蔡徐坤应该选情人啊
+今年还挺火的
+选秀热歌
+（我真不是粉丝）   0   0
+===================
+3802407057   不会要昵称的   听过几首…但不是我怀旧…零几年的歌随便拉一首出来就吊打这几年的了[捂脸]   0   1
+>>>>>>>>>
+===================
+3802401266   一個一個梦   现在可以好好听的歌又多了起来了，一首都不听就说没什么可以听的好厉害呢   0   0
+===================
+3802390671   hapirui啊   幸存者那张专辑都可   0   0
+===================
+3802387734   嘿嘿-小名   我在想，up下次要拿哪一年的歌和2020年的做对比的[doge]   0   0
+===================
+3802387088   我是小佳琪   为了许嵩 一键三连～😆😆   0   0
+===================
+3802384979   这下我有经验了   就听过交换余生，和是但求其爱。[捂脸]   0   1
+>>>>>>>>>
+===================
+3802358552   杰西__麦克雷   周杰伦的mojito呢？   0   1
+>>>>>>>>>
+===================
+3802351935   正稀   我感觉麻雀可以   0   0
+===================
+3802312939   jay_-_z   真可恶，现在的歌手都这么强，只有杰伦还在当“懒狗”   0   0
+===================
+3802302311   黑衣渡人-白衣渡魂   听过两首[喜极而泣][喜极而泣]   0   0
+===================
+3802298290   风行者奔放   现在睡觉前打开视频边听边睡一会儿就着了[doge]   0   0
+===================
+3802286907   游学者丶萝卜   好多游戏也注重音乐了   0   0
+===================
+3802286363   账号已注销   听过1，2，10，30，40，44，其他的要么没听过要么I don’t know the singer   0   0
+===================
+3802284805   钰弟   烈火战马   0   0
+===================
+3802261674   阿剑993   真心建议做一期2020DY等平台的火爆歌曲吧，这期对我来说太生僻了   0   1
+>>>>>>>>>
+===================
+3802258798   天下谁人不识君o   只听过飞鸟和蝉和斗罗大陆那首！   0   0
+===================
+3802243868   托一如既往   放肆！   0   0
+===================
+3802240321   read读花   我很好奇up选歌的标准   0   0
+===================
+3802221529   心殇情泪   这些才是我的审美，2020年了，我还是听他/她们的歌，上一个视频排行榜看着眼生。   0   0
+===================
+3802218724   问情弦歌   仅仅听过飞鸟和蝉，海底   0   0
+===================
+3802201166   羽烈   没听过几首。。[热词系列_知识增加]   0   0
+===================
+3802191800   害怕钟情   听说破茧  麻雀  飞鸟与婵  交换余生别的没听过  嘻嘻   0   0
+===================
+3802189022   尚一啊   没快进，没跳的看完了，就几首感觉还不错，其他真的不知所谓...可能我老了和时代脱轨了吧   0   0
+===================
+3802173640   犹锐学长   居然没有邓紫棋的《孤独》   0   0
+===================
+3802173141   空無題   我好像只听过林俊杰的新歌   0   0
+===================
+3802165215   伏夏葡萄   害，怪不得我在KTV永远在唱老歌[微笑]   0   0
+===================
+3802157519   泥人nino   [翻白眼]感觉就12 16旋律还行。。   0   0
+===================
+3802155055   祈安y   今年给我留下印象的歌，麻雀    海底     是但求其爱   斗牛      书院来信      we  we      懒狗代     沉都    经济舱   0   0
+===================
+3802150448   为何如此俗气丶   么一个版本听过[辣眼睛][辣眼睛][辣眼睛]   0   0
+===================
+3802114098   客家菜鸟   流量唱“励志”，就是蹭热度，歌坛第一要素:嗓音和唱功！不是流量和“假×风”、“伪×风”！   0   0
+===================
+3802109321   tunedeaf   最近在听陶喆[OK]   0   0
+===================
+3802091174   小可爱老九   一个都没听过怎么办？   0   0
+===================
+3802089875   灰机灰了y   不禁怀疑，我是与时代隔绝了么[笑哭][笑哭][笑哭]   0   0
+===================
+3802088193   童话镇上有春秋   悬日皆可，永远的神   0   0
+===================
+3802084107   墨㐽   看完大部分都没听过   听过的也没什么印象[捂脸]   0   0
+===================
+3802082738   流奶牛奶刘奶流   虽然这个歌基本没听过，但是很明显的跟某音那些一天火一首的烂大街“歌曲”有明显的差别。   0   2
+>>>>>>>>>
+===================
+3802080007   天天i天天   歌曲没多少共鸣   0   0
+===================
+3802076779   派大星的大花裤衩   好像就听过一首麻雀，其他的都没听过   0   0
+===================
+3802058383   蜜血冰城棺方站   今年就这几首能听了   0   0
+===================
+3802054872   忆梦风流子   听过10首以内吧，收藏的估计5首以内吧   0   0
+===================
+3802051105   清水煮茗茶   除了抖音刷过的，完整的就听过两三首[笑哭][笑哭]   0   0
+===================
+3802049423   痴心易碎   全没听过[热词系列_害怕]   0   7
+>>>>>>>>>
+===================
+3802045956   看脸的时代丶   看标题就有这个预感了。。  好吧 一首都没听过   0   0
+===================
+3802037884   LGMin   从以前的找没听过到现在的找听过，是我的问题还是华语乐坛的问题？   0   1
+>>>>>>>>>
+===================
+3802032351   suki维恰   只听过一首:赤伶。[tv_笑哭]   0   0
+===================
+3802032278   王者暴君   有没有课代表？？？   0   0
+===================
+3802031460   旧年_风月   并非有意冒犯，我只听过“赤伶”，还是其他版本的。总的来说现在的歌曲“歌词”我一个九零后是真真的理解不了，惭愧！。曲子么，更是欣赏不来，吃了没文化的亏[笑哭][笑哭]   0   0
+sleeping....
+===================
+3802025667   鱼凶草   我只听过喜欢一首李宇春的无价之姐，其他一首都没听过。名字也不知道[捂脸][捂脸]   0   0
+===================
+3802018448   酱油BOY   今年没有周杰伦,鉴定完毕   0   0
+===================
+3802012703   一往无前釜山行-   感觉小尖尖这首歌不错   0   0
+===================
+3802011341   Cookie大饼干   这质量。。。就算了吧   0   0
+===================
+3802007304   LLLLLLLLLLLLLLILLL   感觉很多都是抖音上带火的歌[妙啊][妙啊][妙啊]   0   0
+===================
+3802005109   心魔够非的   /home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+/home/dcchen/anaconda3/envs/fin_learn/lib/python3.9/site-packages/urllib3/connectionpool.py:1045: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.bilibili.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/1.26.x/advanced-usage.html#ssl-warnings
+  warnings.warn(
+我去我一个都没听过[捂脸][捂脸][热词系列_好家伙]   0   0
+===================
+3802000046   善杹子山   我估计我只听过第一首   0   0
+===================
+3801999609   Archer丶淬大宇   虽然大部分都是认识的歌手唱的，但是好像真的没听过的好多啊，就听了李荣浩的两首+胡彦斌的   0   0
+===================
+3801997433   Duck骏   我有罪 几乎都没听过。。。   0   0
+===================
+3801985604   豆腐加辣椒   一半没听过   0   0
+===================
+3801982650   smile灬金金   所以我不看抖音，有好多都没有听过？   0   0
+===================
+3801978805   花未期   麻雀是今年的？我好像很早之前就听过了   0   1
+>>>>>>>>>
+===================
+3801968247   酱油BOY   对不起, 我不配   0   0
+===================
+3801958583   阔卡咩卡酷   传唱度不高啊   0   0
+===================
+3801958204   风雪夜gui人   课代表呢   0   0
+===================
+3801957573   酱油BOY   我比课代表来的早   0   0
+===================
+3801952896   我还是我wo   前排   0   0
+===================
+3801951930   缺月落寒鸦   来了来了   0   0
+===================
+3801949177   wo叫47   抖音神曲[doge]   0   0
+===================
+3801948931   卖果牧去黑晓月法师了   想不出来标题了吧[蛆音娘_滑稽]   0   0
+===================
+3801947661   RockLi-c   4   0   0
+===================
+3801944114   扶洵咏   前排 前排[微笑]   0   0
+===================
+3801943746   浪漫酷儿   热乎乎的[调皮]   0   0
+===================
+3801943214   莫得昵称可以起啦   来了   0   0
+===================
+3801943096   年轻的Skywalker   第三   0   0
+===================
+139345334480   即将上岸的小辛   好的、坏的、老的、新的、能喷的、不能喷的、敢喷的、不敢喷的。   0   0
+===================
+131960920032   七里香地下铁遇见凉凉   2020年的华语乐坛肯定是最近几年(2012/13年)以来最好的一年……因为我女神“出山”了 《无人知晓》专辑质量很高   0   0
+===================
+130086150144   linggler   等等，2020沒有吳青峰的太空人？
+這一年他這張專輯拿到金曲獎最佳國語男歌手～   0   0
+===================
+128895939232   刘亦菲怎么能那么美呀   华晨宇的歌挺好听的吧   0   0
+===================
+127959253776   小心我用鲨齿给你梳头   其实这个歌单都是按照歌手列的   0   0
+===================
+127849656752   胡半天   真的服了弹幕里的人，一到华晨宇就发问号，显得自己很高贵似的   0   0
+===================
+126770035760   hlgydy18959lm   嘿嘿   0   0
+===================
+123606183840   天使和魔王的使者   标题中的“大神”指的是哪种，反正我没听过几首，也找不到几首我喜欢听的   0   0
+===================
+119756004160   o沙瀑送葬o   4/45。。。是什么让我坚持听完了。。。   0   0
+===================
+118644604064   酒吞童子1990   我应该先看评论的，没有杰伦的mojito 看个屁呀   0   1
+>>>>>>>>>
+===================
+117512998208   丶灬果少   这年是真的冷淡的一年   0   0
+===================
+117383091984   啊啊啊啊啊啊啊尼亚   其实好听的还是不少的，只是确实比以前少太多了，我们的要求也比以前高了   0   1
+>>>>>>>>>
+===================
+117067406256   一千个沉默波比   其实，这几年rap那么火，不放几首宣传一下嘛?至少b站的《说唱新世代》有好多好歌   0   0
+===================
+114115629520   狂晕的人皇   华语乐坛混入菜虚鲲的英文歌，这首我真觉得没必要放进来，它的歌数据还是ncf刷的，不是它粉丝真没多少人听。   0   2
+>>>>>>>>>
+===================
+113875855696   bili_19143879959   这个歌单完全乱列的吧   0   0
+===================
+113667619264   伽利略的斜塔   哎，这一年比不上零几年一个月的。   0   0
+===================
+111104507728   暗符sama   弹幕里有个人说许嵩不适合唱歌，还有说难听的。
+你不喜欢可以不听，有人爱听。
+但如果你还那样没素质，这边建议直接火葬场。   0   0
+===================
+108724330976   Amourkokoro   个人认为2020有记忆点的只有交换余生，悬日，无滤镜，破茧，飞鸟与蝉，海底。特别是田馥甄悬日和林俊杰无滤镜这两首超级厉害，没有点音乐素养真没法鉴赏。那些说2020没一首能听的，我觉得说没一首喜欢的还说得过去，你要说没一首行的，我觉得你们没有认清自己的音乐水平，悬日和无滤镜这两首还真不是你们这种能欣赏的   0   1
+>>>>>>>>>
+===================
+107668818528   答案的答案   林俊杰只放一首   0   0
+===================
+107130906064   林俊杰铁杆粉   没有幸存者吗   0   0
+===================
+107019939712   摩城宝丽金   mojito，送你一朵小红花，都去哪儿了？？   0   1
+>>>>>>>>>
+===================
+106807866032   想拿国家奖学金   投币   0   0
+===================
+106660392528   真奥术守护者卡雷苟斯   周深怎么说呢，虽然声音没有太阳刚，但是的确是天籁之声，音色不参杂任何杂质，太好听了！   0   0
+===================
+106640601680   司马请留步   东北民谣为什么没有   0   0
+===================
+106600208672   没心情和狗对骂   这里真是清净多了，比最火的那清净多了[doge]   0   0
+===================
+105023773328   Rabb1tC   没有想见你吗...   0   0
+===================
+103781384064   PPT之神陶喆的徒弟   竟然没有你的情歌   0   0
+===================
+103167694976   牛虻ftjn   错季 秋原依 很不错，怎么不放进来？[尴尬]   0   0
+===================
+102792570560   Tenten颖   有些人是不会打字只会发问号了么   0   0
+===================
+100505508176   小刘才不可爱   有的歌真心难听，up做这个合集，我在看0几年那部分的时候几乎每首歌都能跟着唱勾起回忆，但是从1几年的开始几乎一边快进一边看。我是00后国内国外各种曲风都有听所以也别说我接受不了新东西，现在的歌确实难听确实难听，有的歌我没咋听过，但是在这个榜单听了以后感觉还不如没听过。说实话up做这个合集是看歌的热度，现在歌的风格现在是更多元了，但是门槛低了什么人都有，难听就是难听，难听还不让说，怪不得一部分人审美越来越低。某些所谓歌手，曲子乱抄，歌词完全没有逻辑毫无意义，每次看到这种歌被人热捧，你说不好听了所谓的粉丝还要说你不懂欣赏，真的感觉悲哀。   0   0
+===================
+100497707488   金额刚到家233   看完弹幕，“虚伪到极致，就是高尚?”   0   0
+===================
+100339904896   唯爱紫霞呀   大家好，我花了点时间把up主这个系列的绝大部分歌曲都给收藏到了一个歌单，方便大家可以集中的收听，由于一些版权原因所以有些不是原唱，抱歉。还有部分搜不到。喜欢的可以收藏哦
+分享lizhengde创建的歌单「特别经典的老歌」: https://y.music.163.com/m/playlist?id=7263790177&userid=416254517&creatorId=416254517 (来自@网易云音乐)   0   0
+sleeping....
+sleeping....
+sleeping....
+sleeping....
+csv saved:./data/bilibilicomment/bilibilicomment_2020.csv
+
+================存储完成================
+
